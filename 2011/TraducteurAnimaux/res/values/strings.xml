@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Traducteur!</string>
+    <string name="app_name">traducteur des langues des animaux</string>
+    <string name="bienvenu"><b>Bienvenue dans le monde animal</b></string>
+    <string name="start"><b>Start \n Record</b></string>
+    <string name="stop"><b>Stop \n Record</b></string>
+    <string name="play"><b>Play \n Meaning</b></string>
+    <string name="dialog_title">Traduction</string>
+    
+    <string name="short1">bonjour</string>
+    <string name="short2">ça va</string>
+    
+    <string name="medium1">je veux faire pipi, tu peut m\'aider</string>
+    <string name="medium2">c\'est très bien comme ça</string>
+    
+    <string name="long1">ne me regarde pas je suis timide</string>
+    <string name="long2">aller bon nouvel an mon ami</string>
+    
+    
+
+</resources>

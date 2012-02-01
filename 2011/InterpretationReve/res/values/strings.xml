@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, rp_main!</string>
+    <string name="app_name">L\'Interprétation des rêves</string>
+    <string name="txt_btn_ok">Rechercher</string>
+    
+    <string-array name="reve_array">
+        <item>Animals</item>
+        <item>Bird</item>
+        <item>Car</item>
+        <item>Cow</item>
+        <item>Abandonment</item>
+<item>Adventurer</item>
+<item>Alcohol</item>
+<item>Abbey</item>
+<item>Abbot</item>
+<item>Abyss</item>
+<item>Absence</item>
+<item>Abuse</item>
+<item>Accident</item>
+<item>Achievement</item>
+<item>Bracelet</item>
+<item>Boyfriend</item>
+<item>Ex-Boyfriend</item>
+<item>Baby</item>
+<item>Badminton</item>
+<item>Bridge</item>
+<item>Bride</item>
+<item>Basket</item>
+<item>Basketball</item>
+<item>Bathroom</item>
+<item>Battle</item>
+<item>Bananas</item>
+<item>Cave</item>
+<item>Candle</item>
+<item>Canyon</item>
+<item>Conference</item>
+<item>Concert</item>
+<item>Cancer</item>
+<item>Circle</item>
+<item>Cigarettes</item>
+<item>Classroom</item>
+<item>Clown</item>
+<item>Evil</item>
+<item>Elevator</item>
+<item>Earthquake</item>
+<item>Eagles</item>
+<item>Erection</item>
+<item>Eggs</item>
+<item>French</item>
+<item>Friend</item>
+<item>Fox</item>
+<item>Forest</item>
+<item>Father</item>
+<item>Fangs</item>
+<item>Fame</item>
+<item>Fairy</item>
+<item>Faceless</item>
+<item>Fever</item>
+<item>Garden</item>
+<item>Galaxy</item>
+<item>Girlfriend</item>
+<item>Girls</item>
+<item>Giant</item>
+<item>Gift</item>
+<item>Ghost</item>
+<item>Grandparents</item>
+<item>Grapes</item>
+<item>Grave</item>
+<item>Hawaii</item>
+<item>Hate</item>
+<item>Hat</item>
+<item>Harry Potter</item>
+<item>Happy</item>
+<item>Handshake</item>
+<item>Hurry</item>
+<item>Head</item>
+<item>Headache</item>
+<item>Hear</item>
+<item>Heart</item>
+<item>Heart Attack</item>
+<item>Hearth</item>
+<item>Heat</item>
+<item>Hell</item>
+<item>Help</item>
+<item>Hero</item>
+<item>Kitchen</item>
+<item>Leather</item>
+<item>Match</item>
+<item>Mother</item>
+<item>Mother-In_Law</item>
+<item>Movie Theater</item>
+<item>Jack</item>
+<item>Jade</item>
+<item>Kid</item>
+<item>King</item>
+<item>killer</item>
+<item>kiss</item>
+<item>Knife</item>
+<item>Lake</item>
+<item>Lock</item>
+<item>Makeup</item>
+<item>Market</item>
+<item>Milk</item>
+<item>Mistake</item>
+<item>Monk</item>
+<item>Monkey</item>
+<item>Park</item>
+
+
+
+
+        
+    </string-array>
+    
+    <string-array name="explication_array">
+        <item>To see animals in your dream, represents your own physical characteristic, primitive desires, and sexual nature, depending on the qualities of the particular animal. Animals symbolizes the untamed and uncivilized aspects of yourself. Thus, to dream that you are fighting with an animal signifies a hidden part of yourself that you are trying to reject and push back into your subconscious. Refer to the specific animal in your dream. 
+To dream that animals can talk, represents superior knowledge. Its message is often some form of wisdom. Alternatively, a talking animal denotes your potential to be all that you can be. 
+To dream that you are saving the life of an animal, suggests that you are successfully acknowledging certain emotions and characteristics represented by the animal. The dream may also stem from feelings of inadequacy or being overwhelmed. If you are setting an animal free, then it indicates an expression and release of your own primal desires. 
+To see lab animals in your dream, suggests that an aspect of yourself is being repressed. You feel that you are not able to fully express your desires and emotions. Alternatively, it suggests that you need to experiment with your fears, choices, and beliefs. Try not to limit yourself.</item>
+        <item>To dream of chirping and/or flying birds, represents joy, harmony, ecstasy, balance, and love. It denotes a sunny outlook in life. You are experiencing spiritual freedom and psychological liberation. It is almost as if a weight has been lifted off your shoulders. 
+To dream of dead or dying birds, foretells a period of coming disappointments. You will find yourself worrying over problems that are constantly on your mind. 
+To see bird eggs in your dream, symbolizes money. 
+To see birds hatching in your dream, symbolizes delayed success. 
+To see a bird nest in your dream, symbolizes independence, refuge and security. You need something to fall back on. Alternatively, it may signify a prosperous endeavor, new opportunities, and fortune.</item>
+       <item>To dream that you are driving a car, denotes your ambition, your drive and your ability to navigate from one stage of your life to another. Consider how smooth or rough the car ride is. If you are driving the car, then you are taking an active role in the way your life is going. However, if you are the passenger, then you are taking a passive role. If you are in the backseat of the car, then it indicates that you are putting yourself down and are allowing others to take over. This may be a result of low self-esteem or low self-confidence. Overall, this dream symbol is an indication of your dependence and degree of control you have on your life. 
+To dream that you car has been stolen, indicates that you are being stripped of your identity. This may relate to losing your job, a failed relationship, or some situation which has played a significant role in your identity and who you are as a person. 
+To dream that your car is overheating, suggests that you are expending too much energy and need to slow down or run the risk of becoming burnt out. You may be taking on more than you can handle. It is time to take a breather. 
+To see a parked car in your dream, suggests that you need to turn your efforts and energies elsewhere. You may be needlessly spending your energy in a fruitless endeavor. Alternatively, a parked car may symbolize your need to stop and enjoy life. To dream that you cannot find where you parked your car, suggests that you do not know where you want to go in life. 
+To dream that you are almost hit by a car, suggests that your lifestyle, beliefs or goals may be in conflict with another\’s. It may also be symbolic of a jolting experience or injured pride. 
+To dream that you are unable to roll up the windows of your car, suggests that you are showing some hesitation and reservation about the direction that you are taking in life or the path that you have chosen..</item>
+        <item>To see a cow in your dream, symbolizes your passive and docile nature. You obey others without question. Alternatively, a cow represents maternal instincts or the desire to be cared for. For some cultures, the cow represents divine qualities of fertility, nourishment and motherhood. 
+To see the skeleton of a cow, suggests that your mother or motherly figure in your waking life is displaying a lack of emotions. She is being unresponsive to your needs. 
+To see a herd of cows, indicates your need to belong. 
+To dream that you are milking a cow, represents your willingness and drive to work hard. In the end, you will benefit from your hard work.</item>  
+<item>To dream that you are abandoned, suggests that it is time to leave behind past feelings and characteristics that are hindering your growth. Let go of your old attitudes. A more direct and literal interpretation of this dream is that you have a fear of being deserted, abandoned, or even betrayed. It may stem from a recent loss or a fear of losing a loved one. The fear of abandonment may manifest itself into your dream as part of the healing process and dealing with losing a loved one. It may also stem from unresolved feelings or problems from childhood. Alternatively, the dream indicates that you are feeling neglected or that your feelings are being overlooked. Perhaps the dream is a metaphor that you need to approach life with "reckless abandon" and live more freely.
+To abandon others in your dream, suggests that you are overwhelmed by the problems and decisions in your life.
+</item>
+<item>To dream that you are an adventurer, indicates that you are lacking adventure in your waking life. Alternatively, the dream suggests that you are too absorbed with your ambition that you do not take the time to acknowledge those who have helped you along the way.</item>
+<item>To dream that you are enjoying alcohol in moderation, denotes contentment and satisfaction in the decisions that you have made. Success is within your grasp. The dream may also be a metaphor for "spirits" and you need for spiritual enrichment. 
+To dream that you are consuming alcohol in excess, signifies feelings of inadequacy, worries, regrets and fears of being discovered for who you really are. You are using alcohol as a way to escape or as an excuse for something you did. Alternatively, the dream may be reflective of waking issues and problems of alcoholism.</item>
+<item>To see an abbey in your dream, signifies spirituality, peace of mind and freedom from anxiety. You are in a state of contentment and satisfaction. Help for you is always around the corner.
+To see an abbey in ruins, foretells that your hopes and schemes will fall into failure and incompletion.
+</item>
+<item>To see an abbot in your dream, suggests that someone has power over you and are making you do things that you do not necessarily want to do. Alternatively, you are feeling confined or restricted. You will experience many obstacles and setback before achieving success and prestige.</item>
+<item>To dream of an abyss, signifies an obstacle that is creating much anxiety for you. You need to work through the difficulty and overcome this obstacle in your life. Perhaps you are afraid of "taking the plunge". 
+To dream that you are falling into an abyss, symbolizes the depths of your unconscious. You are afraid and/or uncertain as to what you will discover about yourself and about your hidden feelings and fears. The abyss may also represent your primal fears and feelings of "falling into a pit of despair". Perhaps you are in a state of depression or wallowing in your negative feelings. Alternatively, the dream could denote your lack of spirituality.</item>
+<item>To dream that someone is absent, especially if you expect to find them, suggests that you are looking for something that is already lost to you. Alternatively, you may be looking to feel a void.</item>
+<item>To dream you are abusing someone, suggests that your past actions will come back to haunt you. You may be expressing some regret or remorse over your actions. 
+To dream you are being verbally or physically abused, suggests that you are feeling victimized in a waking situation. You are being taking advantage of.</item>
+<item>To dream that you are in an accident, signifies pent-up guilt in which you are sub-consciously punishing yourself over. Perhaps you have done something that you are not proud of. Alternatively, the accident may symbolize an error or mistake your have made. Accident dreams also represent your fears of being in an actual, physical accident. You may simply be nervous about getting behind the wheel or that the dream is trying to warn you of some accident. 
+To dream of a car accident, symbolizes your emotional state. You may be harboring deep anxieties and fears. Are you "driving" yourself too hard? This dream may tell you to slow down before you hit disaster. You need to rethink or re-plan your course of actions and set yourself on a better path. 
+To dream that a loved one dies in an accident, indicates that something within your own Self is no longer functional and is "dead". It is also symbolic of your own relationship with that person. Perhaps you need to let go of this relationship.</item>
+<item>To dream of an achievement, denotes that you will be greatly satisfied with the outcome of a situation or project. The bigger the achievement, the greater the satisfaction.</item>
+<item>To see or wear a bracelet in your dream, refers to an expression of deep passion and fire. The dream also highlights your need to reach out to others. It is a sign that you need to rekindle old friendships and to call up an old friend that you haven\’t heard from in awhile. 
+To see a broken bracelet in your dream, suggests that you tend to sacrifice your own comfort and happiness for others.</item>
+<item>To see your boyfriend in your dream, represents your waking relationship with him and how you feel about him. 
+To dream that your boyfriend is dead, indicates that something in your own Self that is no longer functional and is "dead". You are not being allowed to fully express yourself. It is also symbolic of your own relationship with that person. Perhaps you need to let go of this relationship. 
+If your boyfriend is away and your dreams of him involve a lot of touching, signify how much you miss his presence and have him being nearby. The dream is telling you not to take the day to day things for granted. Learn to cherish the smaller things in life. 
+To dream that your boyfriend tells you that he is gay or that he doesn\’t love your anymore, represents your own insecurities with the relationship. It may also mean that the relationship is moving to a new level to which you are expressing some anxiety and fears about the changing situation. You may feel left out it in his life or that you are unable to share in all his experiences. It boils down to trust and communication.</item>
+<item>To see an old ex-boyfriend from childhood in your dream, refers to a freer, less encumbered relationship. The dream servers to bring you back to a time where the responsibilities of adulthood (or marriage) didn\’t interfere with the spontaneity of romance. You need to recapture the excitement, freedom, and vitality of youth that is lacking in your present relationship. 
+To dream that your ex-boyfriend is giving you advice about your current relationship, suggests that you unconscious is telling you not to repeat the same mistakes that you had made with this ex-boyfriend. 
+To dream that you are being massaged by your ex-boyfriend, suggests that you need to let go of some of that defensiveness that you have been putting forth. You may have been putting up a wall or armor around you. You need to learn to trust people again. 
+To dream that you ex-boyfriend gives you a stuffed animal, suggests that you are seeking for reassuring and nurturing aspects of a relationship. This is not to imply that you want you ex-boyfriend back. Alternatively, the dream could represent some immature relationship which may (or may not) describe the relationship you had with your ex. 
+To dream that you see your ex-boyfriend dressed in a suit at a hospital, suggests that you have come to terms with that relationship and have completed the healing process.</item>
+<item>To see a baby in your dream, signifies innocence, warmth and new beginnings. Babies symbolize something in your own inner nature that is pure, vulnerable, helpless and/or uncorrupted. If you find a baby in your dream, then it suggests that you have acknowledged your hidden potential. If you dream that you forgot you had a baby, then it suggests that you are trying hide your own vulnerabilities; You do not want to let others know of your weaknesses. 
+If you dream that you are on your way to the hospital to have a baby, then it signifies your issues of dependency and your desire to be completely care for. Perhaps you are trying to get out of some responsibility. If you are pregnant, then a more direct interpretation may simply mean that you are experiencing some anxieties of making it to the hospital when the time comes. 
+To dream of a crying baby, indicates that a part of yourself that is deprived of attention and needs some nurturing. Alternatively, it represents your unfulfilled goals and a sense of lacking in your life. If you dream that a baby is neglected, then it suggests that you are not paying enough attention to yourself. You are not utilizing your full potential. Alternatively, this dream could represent your fears about your own children and your ability to protect and to provide for them. 
+To dream about a starving baby, represents your dependence on others. You are experiencing some deficiency in your life that needs immediate attention and gratification. 
+To dream of an extremely small baby, symbolizes your helplessness and your fears of letting others become aware of your vulnerabilities and incompetence. You may be afraid to ask for help and as a result tend to take matters into your own hands. 
+To see a dead baby in your dream, symbolizes the ending of something that is part of you. 
+To dream that you are dipping a baby in and out of water, signifies regression. You are regressing to a time where you had no worries and responsibilities. Alternatively, it is reminisce of when the baby is in the fetus and in its comfort zone. In fact, some expectant mothers even give birth in a pool, because the environment in the water mimics the environment in the uterus. It is less traumatic for the baby as it emerges into the world. So perhaps, the dream your search for your own comfort zone.</item>
+<item>To play or watch a badminton game in your dream, indicates that you need to make a decision quickly or else opportunities will pass you by. You need to learn to keep up.</item>
+<item>To dream that you are crossing a bridge, signifies an important decision or a critical junction in your life. This decision will prove to be a positive change filled with prosperity and wealth in the horizon. Bridges represent a transitional period in your life where you will be moving on to a new stage. If the bridge is over water, then it suggests that your transition will be an emotional one. If you fall off the bridge and into the water, then the dream indicates that you are letting your emotions hold you back and prevent you from moving forward. Alternatively, the bridge may indicate that you are trying to "bridge" or connect two things together. 
+To dream of a run-down bridge, indicates that you should not contemplate any major changes in your life at this time. 
+To see a bridge collapse in your dream, denotes that you have let a great opportunity pass you by.</item>
+<item>To see a bride in your dream, symbolizes a union or partnership. 
+To dream that the bride is shot at her wedding, suggests that a feminine aspect of yourself has come to an abrupt end. 
+If you are single and dream that you are a bride, represents your desires for marriage. Alternatively, it may represent the most feminine qualities about yourself. The dream may also symbolize purity and virginal qualities.</item>
+<item>To see a basket in your dream, symbolizes the material body. It also represents the things that you are holding onto.</item>
+<item>To dream that you are playing basketball, indicates that you will need the cooperation and assistance of others in order to achieve your goals. Perhaps you are standing in the way of your own progress and need to ask for help. 
+To see a basketball in your dream, suggests that you need to make the first move. You also need to concentrate and be more focused in your goals.</item>
+<item>To dream that you are in the bathroom, relates to your instinctual urges. You may be experiencing some burdens/feelings and need to "relieve yourself". Alternatively, it may symbolize purification and self-renewal. You need to cleanse yourself, both emotionally and psychologically. 
+To dream that you are in a public restroom with no stalls, signifies your frustrations about getting enough privacy. It may also indicate that you are having difficulties letting go of old emotions. You are afraid that if you reveal these feelings, then others around you will judge and criticize you. 
+To dream that you are in a bathroom meant for the opposite sex, then it suggests that you are overstepping your boundaries. You have crossed the line in some situation. 
+To dream that you cannot find the bathroom, signifies that you are have difficulties in releasing and expressing your emotions.</item>
+<item>To be in or see a battle in your dream, suggests that you are overworked. You need to give yourself a break. There is a conflict between your rational thinking and your irrational impulses. Alternatively, it represents eroticism. You may be overly stimulated or you are trying to suppress your instinctual urges.</item>
+<item>To see bananas in your dream, may be a metaphor for repressed sexual urges and desires. It is a phallic symbol and represents masculine sexuality. 
+To dream that you are eating bananas, denotes that you hard work will be met with little reward and gains.</item>
+<item>To see or dream that you are in a cave, symbolize the womb and thus signify refuge, protection and concealment. 
+To dream that you are walking in a dark cave, represents an exploration of your unconscious mind. It signals self discovery.</item>
+<item>To see a burning candle in your dream, signifies that good luck and hope will be coming your way in small and steady amounts. You are in a comfortable stage in your life and may be seeking spiritual enlightenment. Lit candles are also symbolic of intellect, enlightenment, awareness or the search for truth. 
+To see an unlit candle, denotes feelings of rejection or disappointments. You are not utilizing your fullest potential. 
+To see a candle blow out in your dream, indicates that you are surrendering a significant aspect of yourself. You are letting go of something that used to be important to you. 
+To watch the candle burn down to nothing in your dream, signifies your fears of aging and dying. Alternatively, it represents a fear of sexual impotence. 
+To see a red colored candle in your dream, symbolizes some intimate or romantic relationship. You may not be giving the relationship a fair chance and are dismissing it before you invested time to learn more about the other person. On the other hand, you may just not be feeling any chemistry or passion.</item>
+<item>To see a canyon in your dream, represents your unconscious mind and hidden feelings. It may point to emotions and relationships that you did not recognize.</item>
+<item>To dream that you are attending a conference, suggests that you need to consider the ideas and opinions of others before forming your own conclusion. Don\’t be so close minded and listen to what others have to say.</item>
+<item>To dream that you are at a concert, represents harmony and cooperation in a situation or relationship in your waking life. You are experiencing an uplift in your spirits. 
+To dream that you are holding a concert, symbolizes your untapped talents and hidden potential. You need to show of your creative side.</item>
+<item>To dream that you have cancer, denotes hopelessness, grief, self-pity, and unforgiveness. You feel you are wasting your life away. This dream also represents areas in your life which are bothering you, disturbing you, and hurting you in some emotional way. 
+To dream that you are being treated for cancer, signifies a positive change in your life. 
+To dream that someone has cancer, indicates that you need to change your negative way of thinking before it creates a cancer in you. Start being more positive. 
+To dream that someone is a Cancer, symbolizes your tendency to keep and hold on to everything. You hold a lot of power and influence. The Cancer sign also indicates that you tend to be moody and emotional.</item>
+<item>To see a circle in your dream, symbolizes perfection, completeness, immortality and/or wholeness. On a less positive note, it may also mean that you are going around in circles in a particular situation. Or the circle can indicate monotony and endless repetition. 
+To see circles within circles in your dream, indicate that you are well protected or that you are being overly guarded. You may need to let down your defenses. Alternatively, the dream may highlight the notion that you are going around in a vicious circle. You need to somehow find a way to break this circle. 
+To see an imperfect or incomplete circle in your dream, suggests that you will face many obstacles and setbacks toward achieving your goals. You need to work on your inner self and develop more knowledge. You will find that in the end, you will overcome these obstacles and find that your struggles are well worth it. 
+To see a circle with a cross, symbolizes earth. It may also serve as guidance toward the center and self-orientation.</item>
+<item>To dream that you are smoking or offering a cigarette, signifies your need for a break. It may also points to issues of dependency. However if you are against smoking and have this dream, you must analyze aspects of your waking life and what you are doing that may adversely affect your health.</item>
+<item>To dream that you are in a classroom, indicates that you may be learning an important life lesson. Alternatively, it symbolizes personal growth. You are learning something about yourself. 
+To dream that you are looking for a classroom, suggests that you need to expand your knowledge and learning.</item>
+<item>To see a clown in you dream, symbolizes absurdity, light-heartedness, and a childish side to your own character. The countenance of the clown is a reflection of your own feelings and emotions. Whether it is a happy clown or a sad clown, that will help guide you through how you may be feeling. The actions of the clown signifies your uninhibited nature. Alternatively, it is an indication of your thoughtless actions. 
+If you have a fear or phobia of clowns, the clown may represent a mysterious person in your life who mean you harm. Somebody you know may not be who they appear to be. Or somebody may be pretending to be somebody they are not and are hiding under a facade.</item>
+<item>To dream that someone or something is evil, denotes a repressed and/or forbidden aspect of yourself. This part of yourself may be seeking recognition and acknowledgment. Alternatively, evil may also be a reflection of your strong, negative emotions like hate, anger, etc.</item>
+<item>To dream that you are ascending in an elevator, suggests that you will quickly rise to status and wealth. You may have risen to a higher level of consciousness and are looking at the world from an elevated viewpoint. Descending in an elevator, suggests that you are being grounded or coming back down to reality. It also signifies setbacks and misfortunes. 
+The up and down action of the elevator represents the ups and downs of your life. It also symbolizes emotions and thoughts that are emerging out of and submerging into your subconscious. Alternatively, the dream may have sexual connotations. 
+To dream that the elevator is out of order or that it is not letting you off, symbolizes that your emotions have gotten out of control. It may be a reflection of your life or your career. You are feeling stuck in some aspect of your life, whether it is your career, relationship, etc.</item>
+<item>To dream of an earthquake, suggests that you are experiencing a major "shake-up" that is threatening your stability and foundation. The dream highlights your insecurity, fears and sense of helplessness. Is there something in your life that you feel at "fault" for? 
+If you find cover from the quake, you will overcome these challenges. If you become trapped or injured during the quake, you will suffer some sort of loss in your life. According to the bible, earthquakes symbolize God\’s anger and power.</item>
+<item>To see an eagle in your dream, symbolizes nobility, pride, fierceness, freedom, superiority, courage, and powerful intellectual ability. It also represents self-renewal and your connection with your spirituality. You will struggle fiercely and courageously to realize your highest ambitions and greatest desires. Alternatively, if you live in the United States, then the national bird could represent your patriotism and devotion to country. 
+To see an eagle chained down in your dream, represents a desperate situation where you are feeling restricted and confined. You are unable to express yourself and be who you really want to be. Consider also what the eagle is chained down to for additional clues as to what might be holding you back. 
+To see a nest of young eagles in your dream, represents your achievements and your climb to the top of the social ladder. 
+To dream that you kill an eagle, signifies your ruthlessness. You will let nothing stand in your way of ambitions and obtaining your goals, even if it means hurting those around you. If someone else kills an eagle, then it indicates that your fame, fortune and power will be ruthlessly taken from you. 
+To dream that you eat the flesh of an eagle, shows that your strong and powerful character will lead you to great wealth and influence.</item>
+<item>To dream that you have an erection, symbolizes your creative power and energy. You want to take action. Alternatively, if you are a man and dream of an erection, then it suggests a fear of impotence or sexual dysfunction.</item>
+<item>To see or eat eggs in your dream, symbolizes fertility, birth and your creative potential. It indicates that something new is about to happen. 
+To find a nest filled with eggs in your dream, signifies some financial gain; the more abundant and bigger the eggs, the more significant the gain. 
+To see cracked or broken eggs in your dream, represents feelings of vulnerability or a fragile state in your life. Alternatively, you may be breaking out of your shell and being comfortable with who you are. 
+To see bright colored eggs in your dream, symbolizes celebration of a happy event. 
+To dream of rotten eggs, signifies loss. You may have allowed some situation to take a turn for the worse. 
+To see fish eggs in your dream, represents an idea that has emerged from your unconscious.</item>
+<item>If you do no speak French and you hear French in your dream, signifies a sensual and romantic part of yourself. It is often referred to as the language of love. Perhaps you are unwilling to understand or not giving enough attention to some waking relationship. 
+To dream that you are speaking French, signifies an expression of love.</item>
+<item>To see friends in your dream, signifies aspects of your personality that you have rejected, but are ready to incorporate and acknowledge these rejected aspects of yourself. The relationships you have with those around you are important in learning about yourself. Additionally, this symbol foretells of happy tidings from them and the arrival of good news. 
+To see your childhood friend in your dream, signifies regression into your past where you had no responsibilities and things were much simpler and carefree. You may be wanting to escape the the pressures and stresses of adulthood. Consider the relationship you had with this friend and the lessons that were learned. Alternatively, the childhood friend may be suggesting that you have been acting in a childish manner and you need to start acting like an adult. 
+To dream that your best friend is dying, suggests that some aspect or quality that your best friend possess is dying within your own self.</item>
+<item>To see a fox in your dream, represents insight, cleverness, cunningness and resourcefulness. Perhaps the dream is telling you that you need to exhibit more of these qualities in your waking life. Or that you need to conceal your thoughts and remain silent about some situation. Alternatively, it indicates a period of isolation or loneliness. You may take this time to ponder some issue or reflect upon your life. The dream could be a metaphor for someone who is a "fox", as in a foxy lady.</item>
+<item>To dream that you are in or walking through the forest, signifies a transitional phase. Follow your instincts. Alternatively, it indicates that you want to escape to a simpler way of life. You are feeling weighed down by the demands of your life. 
+To dream that you are lost in a forest, signifies that you are searching through your unconscious for a better understanding of yourself.</item>
+<item>To see your father in your dream, symbolizes authority and protection. It suggests that you need to be more self-reliant. Consider also your waking relationship with your father and how aspects of his character may be incorporated within yourself. 
+To dream that your father is dead, forewarns that you need to proceed with caution in conducting your business. 
+To dream that you are hitting your father. represents a desperate need for greater closeness with your father. You feel that he is not listening to you. In particular, if you are hitting your father with a rubber object, indicates that whatever you are doing or telling him has no significant effect on him. Things just literally bounces off him.</item>
+<item>To see fangs in your dream, indicates that you have said some words that have been hurtful to others.</item>
+<item>To dream that you have fame, denotes unrealized achievements or disappointed aspirations. It suggests your need to be praised, acknowledged or admired by those around you. 
+To see famous people in your dream, signifies an increase to your prosperity and honor.</item>
+<item>To see a fairy in your dream, indicates that you are in search of some help or advise for a problem or decision, but may not want to directly admit you need help. In particular, if the fairy is evil, then it suggests that an aspect of yourself needs to be set free. The fairy is also symbolic of your soul and the feminine qualities and aspects of yourself.</item>
+<item>To see a faceless figure or person in your dream, indicates that you are still searching for your own identity and finding out who you are. Perhaps you are unsure of how to read people and their emotions. And therefore are expressing a desire to know and understand these people in a deeper level.</item>
+<item>To dream that you have a fever, suggests that feelings of anger or hatred or threatening to come to your consciousness. You need to find a safe way to express these feelings.</item>
+<item>To see a vegetable or fruit garden in your dream, indicates that your hard work and diligence will pay off in the end. It is also symbolic of stability, potential, and inner growth. You need to cultivate a new skill or nurture your spiritual and personal growth. 
+To see a flower garden in your dream, represents tranquility, comfort, love and domestic bliss. You need to be more nurturing. 
+To see sparse, weed-infested garden, suggests that you have neglected your spiritual needs. You are not on top of things.</item>
+<item>To see the galaxy in your dream, represents your creativity. It also means that you are looking at the broader picture and are more aware of your surroundings.</item>
+<item>To see your girlfriend in your dream, represents your waking relationship with her and how you feel about her.</item>
+<item>To see a girl in your dream, represents your playful, innocent, and childlike nature. Perhaps you are behaving immaturely in some situation. Alternatively, a girl represents the feminine qualities of your character. 
+To dream about a girl that you just met, represents your anxieties and thoughts of whether you had made a good impression on her and what she thought of you. If she told you that she disliked you in the dream, then it may be an excuse for you to dismiss her and not pursue a relationship that is beyond friendship.</item>
+<item>To see a giant in your dream, indicates a great struggle between you and your opponents. You are trying to overcome an overwhelming obstacle. Alternatively, a giant symbolizes an issue, a person or a feeling that is dominating you. You are having an inferiority complex. 
+To dream that you turn into a giant, indicates feelings of inferiority.</item>
+<item>To dream that you are giving a gift, signifies your generosity towards others. Alternatively, you may be trying to express some feeling or have something awkward to say that has to be carefully packaged. If you are showering someone with gifts, then it indicates that you are being overly pushy with your advise. Or that you are trying to hard to be accepted. If you are buying or giving someone expensive gifts, then it symbolizes the sacrifices you are making for that person. You want to make them feel important. 
+To dream that you receive a gift, indicates that you are being rewarded and recognized for your generosity and giving nature. You are held in high esteem by those around you. If someone gives you an inappropriate gift, then it suggests that you are the subject of unwelcomed attention of someone. If you dream that you give someone an inappropriate gift, then it suggests that your true nature will eventually be exposed. Analyze the gift you give or receive for additional significance. 
+To see a pile of gifts, symbolizes unutilized or unrecognized skills and talents. 
+To open a gift and find something disgusting inside, symbolizes disappointments or unexpected failures.</item>
+<item>To see your own ghost in your dream, symbolizes aspects of yourself that you fear. This may involve a painful memory, guilt, or some repressed thoughts. Or you may be afraid of death and dying. Alternatively, ghosts are representative of something that is no longer obtainable or within reach. It indicates that you are feeling disconnected from life and society. Try to figure out what the ghosts wants or what it is looking for. Alternatively, the dream may be a calling for you to move on and abandon your outdated modes of thinking and behavior. 
+To dream that you reach out to touch a ghost, but it disappears, indicates that you are taking steps to acknowledging some painful or repressed thoughts even though you are not ready to fully confront them. 
+To see the ghost of a living relative or friend in your dream, signifies that you are in danger of malice acts by that person. 
+To see the ghost of a dead friend/relative in your dream, suggests guilt and regrets concerning the past relationships with that particular person.</item>
+<item>To see your grandparents in your dream, symbolizes love, security, wisdom and protection. 
+To dream that you are searching for your grandparents, signifies your search for love and protection. You may be regressing to childhood needs.</item>
+<item>To see grape vines in your dream, symbolizes opulence, wealth, and decadence. It also suggests that you have the ability to offer much happiness to others. 
+To see or eat grapes in your dream, represents wealth and prosperity. In the end your hard work will pay off and you will be rewarded for your labor. 
+To dream that you are picking and gathering grapes, signifies profit and the realization of your desires.</item>
+<item>To dream that you are at a grave, indicates that you need to delve into your own unconscious in search of an issue that you thought had been put to rest. You need to stand up for yourself for no one else can do it for you. Alternatively, it represents something is about to be completed in your life. You are leaving behind the old and making a new start. The dream may also be a pun on feeling grave or concerned about a serious or sad situation. 
+To dream that you are digging a grave, denotes some nervousness and uneasiness over some undertaking.</item>
+<item>To see or dream about Hawaii in your dream, symbolizes relaxation and leisure. You are trying to escape from your daily problems.
+</item>
+<item>To dream about hate, indicates repressed aggression and your fear of confrontations. On the other hand, you may forcing your views and opinions onto others. Consider the symbolism of other elements in the dream to find out what is it that you really hate.
+</item>
+<item>To see or wear a hat in your dream, indicates that you are hiding an aspect of yourself or that you are covering up something. Alternatively, it represents your attitude or the various roles and responsibilities you have in your waking life. 
+To dream that you are wearing different hats, symbolizes the many different roles you have in your waking life. Perhaps you feel you are stretched too thin and overburdened by daily responsibilities. 
+To dream that you are changing hats, represents your changing opinions and thoughts. 
+To dream that you are wearing a top hat, denotes your aspirations for wealth. It is also symbolic of male elegance and formality. If the top hat is knocked off your head, then it suggests a loss in your status of a fear that you will be stripped of your authority.</item>
+<item>To see Harry Potter in your dream, indicates that you have the potential to accomplish amazing things in the face of insurmountable hardships. Harry Potter reflects a more modern, atypical version of a movie hero with glasses and a quiet yet immensely strong personality. 
+To dream that you are Harry Potter, represents your desires to escape from reality. You are living in your own fantasy world.</item>
+<item>o dream that you are happy, may be a compensatory dream and is often a dream of the contrary. You may be trying to compensate for the sadness or stress in your waking life.</item>
+<item>To dream that you are shaking hands with someone, symbolizes either a new beginning or an ending to a situation. You have reached an agreement or a decision to a problem. The dream may also mean that you are welcoming something new into your life. In particular, if you are shaking hands with someone famous or someone important, then it suggests that you are well regarded by others.
+</item>
+<item>To dream that you are in a hurry, suggests that may be unprepared for a situation. There is a lack in your planning of things. Alternatively, you may be feeling out of place. This dream may also be a literal reflection of your daily life where you feel that you are always in a rush and that there is not enough time to do all the things you want to do. The dream may occur due to this type of stress.</item>
+<item>To see a head in your dream, signifies wisdom, intellect, understanding and rationality. It may also represent your accomplishments, self-image, and perception of the world. The dream may also be metaphor to indicate that you are "ahead" in some situation or that you need to get ahead. 
+To dream that someone is trying to rip your head off, suggests that you are not see a situation or problem clearly. Perhaps you are refusing to see the truth. You have to confront the situation or the person despite the pain and discomfort you might feel in doing so.</item>
+<item>To dream that you have a headache, suggests that you are heading in the wrong direction. You may be repressing your intellect and rational thinking. You need to utilize your mind and not let your emotions get out of control.</item>
+<item>To dream that no one hears you, refers to a waking situation where you feel that no one is listening to you or paying attention to what you are saying. You feel you are being overlooked or overshadowed.
+</item>
+<item>To see your heart in your dream, signifies truth, courage, love, and romance. It is representative of how you are currently dealing with your feelings and expressing your emotions. Also consider the saying "the heart of the matter" which implies that you may need to get down to the core of a situation before proceeding. 
+To dream that your heart is bleeding, represents desperation, despair, extreme sadness and sympathy. 
+To dream that you have a heart transplant or heart surgery, indicates a huge change in your personal relationship. Perhaps you are involved in a rebound relationship.
+</item>
+<item>To dream that you have a heart attack, refers to a lack of support and acceptance. Perhaps you also feel a loss of love.</item>
+<item>To see the hearth in your dream, signifies nurturance, security, and comfort. It also indicates close family values and tight connections.
+</item>
+<item>To feel heat in your dream, indicates a feeling of shame or embarrassment. Alternatively, it represents purity, creative energy or intense passion.</item>
+<item>To dream of hell, denotes that you may be suffering from a seemingly inescapable situation. You may have placed your decision or course of action into someone else\’s hand. Alternatively, you may be possessing a guilty conscious, some inner fears or repressed negative feelings. It is time to quit punishing yourself and take it easy for awhile.
+</item>
+<item>To dream that you are helping someone, indicates your willingness to compromise your beliefs toward a greater accomplishment. It also represents your efforts to combine your talents or energies to achieve a mutual goal. In particular, if you are helping an enemy or someone you do not like, then it suggests that you need to come to an understanding or some sort of middle ground in order to move forward and on with your life. 
+To dream that you are calling or signaling for help, suggests that you are feeling lost, overwhelmed, and/or inadequate.
+</item>
+<item>To dream that you are a hero, signifies your inner strength and weaknesses. You are bravely facing and challenging the secrets of your unconscious.
+</item>
+<item>To see a kitchen in your dream, signifies your need for warmth and spiritual nourishment. It may also be symbolic of the nurturing mother or the way that you are caring for your loved ones. Alternatively the kitchen, represents a transformation.</item>
+<item>To see or wear leather in your dream, represents toughness and ruggedness. Perhaps it may imply your thick-skinned nature. Or you are seeking protection from the elements. Alternatively, the dream also refers to your instinctual and animalistic nature and thus, have sexual connotations.
+</item>
+<item>To see or strike a match in your dream, suggests that there is something that you need to ignite and rekindle in your life. The dream maybe a pun on something or someone that is a match.
+</item>
+<item>To see your mother in your dream, represents the nurturing aspect of your own character. Mothers offer shelter, comfort, life, guidance and protection. Some people may have problems freeing themselves from their mothers and are thus seeking their own individuality and development. 
+To dream that you are having a conversation with your mother, denotes a matter that has preoccupied your mind and you are not sure how to deal with it in your waking life. It indicates unresolved problems that still need to be worked out with your mother. 
+To hear your mother call you in our dream, signifies that you have been negligent in your duties and responsibilities. You are pursuing down the wrong path. 
+To hear your mother cry in your dream, denotes some illness or affliction.</item>
+<item>To see your mother-in-law in your dream, foretells that after much bitter disagreements, things will be resolved in a pleasant and amicable manner. 
+To dream that you are in a dispute with your mother-in-law, indicates that you will be greatly annoyed by callous and unfeeling people around you.
+</item>
+<item>To dream that you are in a movie theater, indicates that you are attempting to protect yourself from your emotions and/or actions. Viewing them on a movie screen projects them onto another person and thus makes those feelings/actions distant . You may be protecting yourself from experiencing them.
+</item>
+<item>To see or use a jack in your dream, suggests that you are looking to balance your life. The dream may also symbolize a person named "Jack" in your life.
+</item>
+<item>To see jade in your dream, indicates healing powers, immortality, and truth. Additionally, it also represents growth, shaping and development of your personality.</item>
+<item>To see a kid (baby goat) in your dream, forewarns that your unscrupulous ways will bring about grief to a loved one. 
+To see a kid in a meadow, denotes that too much of your time is spent on pleasure and your business or educational pursuits will eventually suffer.</item>
+<item>To see a king in your dream, indicates that success and prestige is within reach. You will rise above your problems and adversities. It is symbolic of power and control. Alternatively, the king also symbolizes your father or some father figure. You are looking for support. 
+To dream that you are the king, represents your masculine power. Alternatively, it indicates that you have attained a high level of authority and power. Perhaps you are becoming too domineering or overly confident.</item>
+<item>To see a killer in your dream, suggests that an essential aspect of your emotions have been cut off. You feel that you are losing your identity and your individuality. Alternatively, this dream may represent purification and the healing process. You are standing up for yourself and putting a dramatic end to something.</item>
+<item>To dream of a kiss, denotes love, affection, tranquility, harmony, and contentment. To see others kissing in your dream, suggests that you are too involved in their personal lives and relationship. You need to give them some space. If the dream ends just about you are about to kiss someone, indicates that you are unsure of how he or she really feels about you. You are looking for some sort of relationship with this person but you are not sure about how to go about achieving it. If you are heterosexual and you dream that you are kissing someone of the same sex, then it represents self-acceptance. You are acknowledging the feminine or masculine side. 
+To dream that you are kissing someone\’s hand, signifies respect. 
+To dream that you are kissing someone else\’s boyfriend or girlfriend, indicates your wish to be in a relationship and to experience the energy of love. You may be sexually acting out and desire to awaken your passion. Alternatively, it indicates a lack of integrity on your part. 
+If you are kissing a close friend, then it represents your respect and adoration for your friend. You are seeking some intimate closeness that is lacking in some waking relationship. It may or may not signify a romantic interest for him or her. 
+To dream of kissing an enemy, signifies betrayal, hostility, or reconciliation with an angry friend. Consider also the saying "this kiss of death". If you are kissed by a stranger, then your dream is one of self-discovery. You need to get more acquainted with some aspect of yourself.</item>
+<item>To dream that you are carrying a knife, signifies anger, aggression and/or separation. There may be something in your life that you need to cut out and get rid of. Alternatively, the knife may be symbolic of something divisive in your life. You may be attempting to cut ties or sever some relationship. 
+To see a dull knife in your dream, denotes that your hard work is accompanied by little or no gain. 
+To dream that you are wounded by a knife, is symbolic of masculine or animalistic aggression. 
+To see an electric knife in your dream, indicates your power to get down to the truth of a situation quickly.
+</item>
+<item>To see a lake in your dream, signifies your emotional state of mind. You feel restricted or that you are unable to express your emotions freely. Alternatively, the lake may provide you with solace, security, and peace of mind. If the lake is clear and calm, then it symbolize your inner peace. If the lake is disturbed, then you may be going through some emotional turmoil.</item>
+<item>To see a lock in your dream, signifies your inability to get what you want or that you are being kept out of some activity or situation. Perhaps an aspect of yourself is locked up inside and needs to be expressed. 
+To dream that a lock is accidentally shut around your wrist, suggests that you are debating on whether to be more open about your feelings or keep them to yourself. You feel that you are taking a major risk in letting your feelings known.
+</item>
+<item>To dream that you are applying make-up, suggests that you are trying to cover up or conceal an aspect of yourself. Alternatively, it indicates that you are putting on your best face forward. You are trying to enhance your self-image and increase your sense of self-confidence. The dream may also be a metaphor that you need to "make up" with someone. It is time to forgive and forget. 
+To dream that you are wearing too much make-up, indicates that you are putting more emphasis on beauty and outside appearances rather than what is inside.</item>
+<item>To dream that you are in a market, represents some emotional of physical need that you are currently lacking in your life. You may be in need of nurturance and some fulfillment. Consider the specific items that you are shopping for. Alternatively, the market signifies frugality. 
+To see an barren market in your dream, signifies depression and gloominess. There is a void in your life.</item>
+<item>To see milk in your dream, symbolizes maternal instincts and motherly love. It also denotes human kindness, wholesomeness, and compassion. Alternatively, the dream may be a metaphor that someone is "milking" you, either emotionally or financially. 
+To dream that you are drinking milk, signifies domestic bliss and inner nourishment. It may also imply that you need to strengthen your ties and relationships with others. If the milk is sour, impure or bad tasting, then it suggests that you need to hold back your support. If the milk is hot, then it represents comfort and calmness. 
+To spill milk in your dream, symbolizes a loss of faith, opportunity, and trust. 
+To dream that you are bathing in milk, indicates that you are surrounded by strong relationships and solid friendships. Alternatively, the dream suggests that you are in need of some relaxation. 
+To dream that you are choking on milk, indicates that you are being overprotected. You may be feeling smothered in some relationship.
+</item>
+<item>To dream that you make a mistake, indicates that you are doubting yourself in the choices and decisions you have made.
+</item>
+<item>To see a monk in your dream, signifies devotion, faith, and spiritual enlightenment. 
+To dream that you are a monk, symbolizes the introspective aspect of yourself. You need to emotionally withdraw yourself from a situation and regain some control, structure, and order.</item>
+<item>To see a monkey in your dream, symbolizes deceit. People are working to advance their own interest. They also represent insight and intuition. Alternatively, monkeys also indicate an immature attitude, a playful nature and a mischievous side of your personality. 
+To see a monkey hanging or swinging from a tree, suggests that you are feeling troubled by some issue. 
+To dream that you are feeding a monkey, denotes that you betrayed by someone whom you thought cared about your interests. 
+Consider also the significance of the Three Mystic Monkeys who cover their eyes, ears and mouth to mean that they see no evil, hear no evil and speak no evil.</item>
+<item>To dream that you are at a park, represents a temporary escape from reality. It indicates renewal, meditation, and spirituality. You may be undergoing a readjustment period after experiencing some serious personal conflict or an end to a passionate affair. 
+To dream that you are lost in a park, indicates your struggles with your career, relationship, or other problem. You may feel alienated by society. 
+To dream that you are parking your car, represents your desire to settle down. Alternatively, it means that you feel accomplished in your goals and satisfied with your life. If you have difficulty parking the car, then it means that you are in some sort of a rut. You are feeling restless. Perhaps you wished you had taken a different path in your life. 
+To dream that you parked your car in a non-parking zone, suggests that you are poking your head in places where you do not belong. If you forgot where you parked, then it indicates that you have lost your direction in life. You are going off track.
+</item>
+
+
+
+
+       
+    </string-array>
+    <string name="msg_existpas">Le sujet n\’exist pas, changez un mot s\’il vous plait</string>    
+    <string name="msg_invalideinput">Tapes un mot, s\’il vous plait</string>
+   
+    
+</resources>
+

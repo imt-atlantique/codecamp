@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FortunetellingActivity!</string>
+    <string name="app_name">Fortunetelling</string>
+	<string name="bagua1">NO.1 BEST\n
+	    Hexagram:A tired dragon get water who was good luck, are on the brow of festivity. Hope all are wishful to seek backwards fortune gradually higher.\n
+	    Fortune:Soaring, fame and fortune come, should seize the opportunity to achieve success.\n
+	    Love:Both sides try to be brave, should communicate more accommodating.\n
+	    Health:Disease progression, should be carefully nursed back to health, pay attention to head, brain, bone marrow lesion.\n
+	    </string>
+	<string name="bagua2">NO.2 BEST\n
+	    Hexagram:Hungry tiger is happy to get food, seeking fame and fortune should be upward development, when going out will have good luck and won\'t encounter dispute.\n
+	    Fortune:All things should not be radical, it should not be action to wait the right opportunity.\n
+	    Love:Radical may lose but slowly will advanced,Haste makes waste.\n
+	    Health:Serious condition, the abdomen, stomach, muscle and other chronic diseases.\n
+	    </string>
+	<string name="bagua3">NO.3 WORST\n
+	    Hexagram:The wind mess the hair, but can not see the head,confused and have some troubled, slowly to do will have some clues,do not rush things.\n
+	    Fortune:Have some difficulties,should solve it step by step,the difficulty will be resolved after.\n
+	    Love:Emotional develop by resistance, should keep the faith, overcome all difficulties.\n
+	    Health:Disease in the stomach, foot, or urinary system, should not be taken lightly.\n
+	    </string>
+	<string name="bagua4">NO.4 WORSE\n
+	    Hexagram:Guilty villain,hope for the wealth in vain,marriage may be broken, travel and trade will meet some gossipy.\n
+	    Fortune:Initially confused and do not know the direction, be patient to wait the good time, always listen to the opinions of others, then will have good luck.\n
+	    Love:Lack of courage and determination.\n
+	    Health:The disease is unknown, repeated intractable. The stomach, ascites of the disease and infectious diseases.\n
+	    </string>
+	<string name="bagua5">NO.5 BEST\n
+	    Hexagram:Pearl buried deep for a long time, no light until now. Suddenly the wind blows to the soil, naturally exposed again.\n
+	    Fortune:Should wait the right time to do things, if radical will encounter dangerous.\n
+	    Love:Emotional development at first disappoint, we must be patient, then will see the success.\n
+	    Health:Delay the disease should be carefully treated, for the head and chest, urinary system diseases.\n
+        </string>
+	<string name="bagua6">NO.6 GOOD\n
+	    Hexagram:The two men refused to surrender fight, and require assertive.travel and trade will be blocked, will meet business partners.\n
+	    Fortune:Inconsistent with the desire of things,villain harm,prevent trap.\n
+	    Love:Erratic,frequent quarrels,prevent villain breaking.\n
+	    Health:Serious condition, for the waist, blood, urinary system, the head disease.\n
+	    </string>
+	<string name="bagua7">NO.7 BETTER\n
+	    Hexagram:Soldiers were ordered to go to war,Riding a good horse to archery,very accurate archery shooting,and shoot the money to make you happy.\n
+	    Fortune:Have some difficult, everything should act formally.Avoid arbitrary and opportunistic, beware of a potential enemy.\n
+	    Love:Women become strong and men become weak,to be vigilant against sex doom,may have polygonal relationship,difficult to propose marriage.\n
+	    Health:Critical conditions, beware of the heart or abdominal tumor.\n
+	    </string>
+	<string name="bagua8">NO.8 BEST\n
+	    Hexagram:Downwind sailing,and God still help the wind. Forward without effort, go anyway you will have good luck.\n
+	    Fortune:May have promoted smoothly,all matters relating to quick-fix,not too much hesitation.\n
+	    Love:Two people like each other, good match.\n
+	    Health:New disease should fast for medical treatment, chronic illness is dangerous, as the abdomen, kidney, ear and other diseases.\n
+        </string>
+	<string name="bagua9">NO.9 WORSE\n
+	    Hexagram:Thick clouds but hardly to rain,look forward the far away people, but not come back,travel and trade are effortlessly,in vain to seek marriage.\n
+	    Fortune:Fortune over and over again, there is a war of words, but difficult to solve the short term, be patient, wait good time.\n
+	    Love:Differences of opinion, or being against elders.\n
+	    Health:Serious illness, pay attention to the liver and gallbladder, head lesions.\n
+	    </string>
+	<string name="bagua10">NO.10 BETTER\n
+	    Hexagram:Beautiful birds come out from the cage fortunately,away from the disaster and show its power,one day successful and fly away to any directions.\n
+	    Fortune:First work hard then comfortable,first shock and then stability,everything should not be radical,get along with others peacefully,near misses.\n
+	    Love:Two people like each other but a lot of difficulties, sincerity can affect even metal and stone.\n
+	    Health:Disease was heavy, but also more attention to conditioning, be care about head, mouth, lung and other diseases.\n
+	    </string>
+	<string name="bagua11">NO.11 BEST\n
+	    Hexagram: Have good luck,great good fortune to seek hope for wealth,travel and trade are wishful,gossipy is no harm.\n
+	    Fortune:Everything go smoothly,all matters relating to internal demand, not outside,prevent joy turning to sorrow.\n
+	    Love:Fall in love, happy match concluded.\n
+	    Health:Adverse chronic illness, attention intestine, lung and head disease.\n
+	    </string>
+	<string name="bagua12">NO.12 WORSE\n
+	    Hexagram:Tigers fall into the trap and unspeakable,easily forward difficult to back,different aspirations and their own ideas,have been implicated in disease and gossipy.\n
+	    Fortune:Discord with elder,everything is not very well,we have to be patient, the situation will improve.\n
+	    Love:Refuse others far away, with signs of discord and parting.\n
+	    Health:Disease in the brain, lungs and stomach, etc. beware of cancer.\n
+        </string>
+	<string name="bagua13">NO.13 BETTER\n
+	    Hexagram:Immortal lead you to pass the road, you can go to every directions,for the fiscal effortless,business partners are also consensus.\n
+	    Fortune:Auspicious working with others,peaceful with others and be promoted by elders.\n
+	    Love:Each other mutual respect and understanding,good match.\n
+	    Health:Mild disease and soon cured ,pay attention to the heart, head and lung disease.\n
+	    </string>
+	<string name="bagua14">NO.14 BETTER\n
+	    Hexagram:Cutting down trees touch the bird solid work,gossipy will disapear,marriage effortlessly,if you ask lost has not escape.\n
+	    Fortune:Obtain the opportunity, have good luck,but should prevent extremes meet, the boom-bust.\n
+	    Love:Lovers to get married.\n
+	    Health:Disease can be cured, prevent high blood pressure, heart, head and lung disease.\n
+	    </string>
+	<string name="bagua15">NO.15 BETTER\n
+	    Hexagram:God send gold to poor people, do not need to fight, just share payments to each other,All the aspirations are achieved.\n
+	    Fortune:Lucky and peace, good prospects,but pride must be removed.\n
+	    Love:With the humility attitude to pursue will be successful, be happy match.\n
+	    Health:Old disease happen again, abdominal or back illness.\n
+	    </string>
+	<string name="bagua16">NO.16 BETTER\n
+	    Hexagram:Dragon proud and happy,hope things successful,barrier-free of travel and marriage,without gossipy.\n
+	    Fortune:Wishful and peaceful,get help from elders,everything should be prepared to fight.\n
+	    Love:Smooth, heaven-sent happy match, but the woman is older than the man.\n
+	    Health:Dangerous of the hexagram, pay attention to the abdominal cavity, liver and gallbladder disease.\n
+	    </string>
+	<string name="bagua17">NO.17 WORSE\n
+	    Hexagram:Push the trolley but the road is dry,hope for the money does not very hard,barrier-free of travel and marriage,disease and gossipy will make you security and peace.\n
+	    Fortune:Remove the old and welcome the new,should work with others,will be profitable,avoid two minds, or arbitrary.\n
+	    Love:prevent fickle, obsessed with lust.\n
+	    Health:Ill be long-term treatment, attention to oral, liver, feet suffering from embolism.\n
+	    </string>
+	<string name="bagua18">NO.18 WORSE\n
+	    Hexagram:Hexagram looks like a millstone,up is a blessing and down is disaster,know what things to change, things get wrong because busy.\n
+	    Fortune:Affairs will be unhappy, difficult to confuse,bold innovation,otherwise lead to internal and external hardship.\n
+	    Love:Distress and more tempted by others, complex relationships,avoid love many people,inviting worry.\n
+	    Health:Should take the opportunity of treatment, the winter was often neglected,as the visceral malignant disease.\n
+	    </string>
+	<string name="bagua19">NO.19 BETTER\n
+	    Hexagram:Be kind will give you a lot of ambitions,go out for the money is smooth, transaction and marriage are hopeful,have the message of the people who lost.\n
+	    Fortune:Everything go smooth, the future is expected,but should not be too anxious.\n
+	    Love:Tender people will be successful, pay attention to that haste makes waste.\n
+	    Health:Mild for the stomach, mouth of the disease, and urogenital system diseases prevention.\n
+	    </string>
+	<string name="bagua20">NO.20 WORSE\n
+	    Hexagram:Magpies live in the forest when it\'s dark, but they don\'t know there are storks first,although stay together but the heart with evil,it\'s not simple thing.\n
+	    Fortune:Sitting in the change, should be more observant, psychosomatic distress, and prevent the temptation from outside.\n
+	    Love:Flowing uncertain, looks good, but inside the superficial, the elders may give you help.\n
+	    Health:There are signs of gradual deterioration, the condition changing, as the abdomen, nervous system disorders.\n
+	    </string>
+	<string name="bagua21">NO.21 GOOD\n
+	    Hexagram:Bad luck just like you are seriously hungry,but someone send you the meal, the food are delicious and you satisfy,then sadness is fading.\n
+	    Fortune:Everything go barrier, disputes inevitably, should keep regular, not inducement, the problem will be solved.\n
+	    Love:Have been blocked or crosses, should move forward.\n
+	    Health:Serious condition, note that the foot, heart, nervous system diseases.\n
+	    </string>
+	<string name="bagua22">NO.22 BETTER\n
+	    Hexagram:Turned the corner, gentlemen is seeking my fair Lady,with good fortune.\n
+	    Fortune:Emptiness inside and surface is gorgeous must equip themselves with all things practical, step by step.\n
+	    Love:Should not focus on appearance alone and ignore the content,not regard yourself as too high.\n
+	    Health:Critical condition, the heart, chest and abdomen and other diseases.\n
+	    </string>
+	<string name="bagua23">NO.23 BEST\n
+	    Hexagram: Flowers have mannose, when dry you meet a river,business have many interest,someone will help your marriage,when you go out the torment will never appear.\n
+	    Fortune:Bad luck ridden, should be re-deployed, should not try to be smart,be care of women and bad people.\n
+	    Love:Men chase women is benefit, in contrast is negative.\n
+	    Health:Signs of disease progression, prevent headache, gastrointestinal, sexually transmitted diseases and other diseases.\n
+	    </string>
+	<string name="bagua24">NO.24 WORSE\n
+	    Hexagram: Not peaceful,with trouble and sadness,benefactor don\'t loyalty,no reason about the crisis.\n
+	    Fortune:Everything is not radical, should be step by step.\n
+	    Love:Radical will fail and impatient will success.\n
+	    Health:Disease recurrence, but treatable, liver, gastrointestinal, nervous system diseases.\n
+	    </string>
+	<string name="bagua25">NO.25 WORSE\n
+	    Hexagram:Difficult to succeed such as cage birds, not free,hope for the money can\'t be sure, worry about the disease and gossipy.\n
+	    Fortune:All matters relating to honesty and integrity, if the misconduct who will lead disaster.\n
+	    Love:Not peace, not smooth or injury.\n
+	    Health:Should not be swayed by personal feelings, should make every effort convalescence, is a respiratory system, head and feet of the disease.\n
+	    </string>
+	<string name="bagua26">NO.26 BETTER\n
+	    Hexagram:Sadness often appear,a lot of things remember by heart,from now on, open everthing,do whatever you want.\n
+	    Fortune:Doing things is not just ambitious, should be down to earth,will success, avoid supercilious.\n
+	    Love:Although there are small obstacles, but eventually can be successfully.\n
+	    Health:Disease was heavy, but it can cure, prevent chest, abdomen or the hands disease, easy to overwork.\n
+	    </string>
+	<string name="bagua27">NO.27 BEST\n
+	    Hexagram:Hope things will come true, travel and trade are wishful, disease and gossipy will be far from you.\n
+	    Fortune:Doing things are lack of careful consideration,don\'t have conspiracy, to keep the right path.\n
+	    Love:Avoid arrogant bully, should be re-estimated the value of the other, do not miss the youth because of the emotion.\n
+	    Health:Chronic illness were dangerous for the stomach, throat, hands and feet of the disease.\n
+	    </string>
+	<string name="bagua28">NO.28 WORSE\n
+	    Hexagram:Dream about gold but disappear when you weak up,seek fame have big barrier,marriage is difficult and transaction not deal,can\'t find the lost people.\n
+	    Fortune:Inadequate, overburdened, and have many troubles,be care of water and offical.\n
+	    Love:Two people all expect too much, or both of them have their own sweetheart.\n
+	    Health:Seriously, be patient treatment, lung, nervous system, the women have gynecological disease.\n
+	    </string>
+	<string name="bagua29">NO.29 WORST\n
+	    Hexagram:The moon shines on the water,just see the shadow but not the real one, fools take it as precious thing,touch and touch to get nothing.\n
+	    Fortune:Crises, should calmly deal with, keep cheerful, not competing with others.\n
+	    Love:Easy to fall in love, but there are sign of danger and obstruction.\n
+	    Health:Disease should be treat as soon as possible, or can not cure, pay attention to the kidneys, bladder genital disease.\n
+	    </string>
+	<string name="bagua30">NO.30 BEST\n
+	    Hexagram:Rich will come,with luck and your hope things,trouble will disappear and you will get peace.\n
+	    Fortune:Appearance of the heyday, the signs of sun in the sky, everything should not be aggressive and impulsive.\n
+	    Love:Should not be impatient, be counter-productive,who is quiet and sincere will success.\n
+	    Health:Solvable acute disease, chronic illness is fierce, patient should be nursed back to health, eye blood for the heart disease.\n
+	    </string>
+	<string name="bagua31">NO.31 GOOD\n
+	    Hexagram:Things will get better even if it\'s not very good before.\n
+	    Fortune:Good luck as you wish,but pay attention to the abnormal relationship.\n
+	    Love:Normal relationship develops smoothly,but the abnormal relationship should be immediately ended.\n
+	    Health:Intestines and stomach may have problems,a good rest is needed.\n
+	    </string>
+	<string name="bagua32">NO.32 BETTER\n
+	    Hexagram:Fame and wealth are easy to get,you will get what you want if you make more efforts.\n
+	    Fortune: Keep on the rails will make everything remain the same,think clear before taking action.\n
+	    Love:The lovers finally get married.\n
+	    Health:Chronic disease needs treatment,pay attention to liver disease.\n
+	    </string>
+	<string name="bagua33">NO.33 GOOD\n
+	    Hexagram:Not travel far,marriage and wealth will have problems,pay attention to the gossip.\n
+	    Fortune:Choose to appropriate back rather than rushed forward,raise self-cultivation.\n
+	    Love: You won\'t get your unrequited love.\n
+	    Health:Seriously ill,pay attention to the disease of head,back,bones and muscles.\n
+	    </string>
+	<string name="bagua34">NO.34 BETTER\n
+	    Hexagram:You will get your lucky days and have the courage to do whatever you want.\n
+	    Fortune:Luck to the top and you\'d better stay calm,or things will get worse.\n
+	    Love:Remain modest and kind,you will have your lover\'s heart.\n
+	    Health:Person who don\'t always get sick will  fall ill,pay attention to acute respiratory infection.\n
+	    </string>
+	<string name="bagua35">NO.35 BETTER\n
+	    Hexagram:The person who wants to find wealth can have good luck.\n
+	    Fortune:Career,fame and fortune all develop well.\n
+	    Love:To pursue with the attitude mild must be successful.\n
+	    Health:Person who has illness for a long time will get worse,the others will be fine,pay attention to your heart and stomach.\n
+	    </string>
+	<string name="bagua36">NO.36 BAD\n
+	    Hexagram:Quickly demolished the bridge after across the river,always reactive by labor in vain.\n
+	    Fortune:The potential disease get fierce,,pay attention to the heart, the abdomen and neuropathy.\n
+	    Love:Lover do not accept your love,a rare success.\n
+	    Health:The disease is potential long time, attention to the heart, the abdomen of the disease or neuropathy.\n
+	    </string>
+	<string name="bagua37">NO.37 WORST\n
+	    Hexagram:Don\'t be careful about what you have lost, looking for wealth and marriage don\'t go well.\n
+	    Fortune:It is easy to work with others,happy things happen such as childbirth marriage, etc.\n
+	    Love:You will get married with your lover finally.\n
+	    Health:Note the heart or gall bladder disease, must be careful conditioning.\n
+	    </string>
+	<string name="bagua38">NO.38 WORSE\n
+	    Hexagram:There is no bridge when you across the river. Be careful of felling into the water in the wrong step.\n
+	    Fortune:Everything go hard, you should not be panic.\n
+	    Love:Each other doesn\'t have feeling, should not expect.\n
+	    Health: Light illness should go for medical treatment,pay attention to anti-diagnosis error,note the disease of the heart, cold and heat disorders.\n
+	    </string>
+	<string name="bagua39">NO.39 WORSE\n
+	    Hexagram:Life will be bitter and difficult,things don\'t go well,keep patient.\n
+	    Fortune:More difficulty, this time should keep the right path, not to act rashly.\n
+	    Love:Difficult, as has now broken.\n
+	    Health:Heavy illness  can not be negligent treatment, pay attention to the kidney, stomach, hands, limbs damage.\n
+	    </string>
+	<string name="bagua40">NO.40 BETTER\n
+	    Hexagram:Advise you make more money according to the financial requirements,there are always many people to help you and do not worry about the disease.\n
+	    Fortune:Should take this opportunity and quickly deal with the problem,better to go out looking for more chance.\n
+	    Love:Do not hesitate, take the opportunity to succeed.\n
+	    Health:Chronic illness cured, attention to the liver, kidney, foot disease.\n
+	    </string>
+	<string name="bagua41">NO.41 BAD\n
+	    Hexagram:Can\'t get too much fortune in many ways, depend on yourself.\n
+	    Fortune:Though the first loss, but after instead the benefit,have patience.\n
+	    Love:Not good for women,trait people with all your heart can result in a success, should not be preoccupied.\n
+	    Health:The status of the disease, although severe, active treatment can have a  recovery. Physically weak, pay attention to the stomach, throat, anemia and other diseases.\n
+	    </string>
+	<string name="bagua42">NO.42 BETTER\n
+	    Hexagram:You will get what you want after many years\' efforts,people praise you and remember to keep modest.\n
+	    Fortune:The help from friends can get elegant and successful, should be patronizing to people, is more blessed to give than to receive.\n
+	    Love:Love each other, happy match.\n
+	    Health:Can be cured, be ware of the liver,gallbladder,stomach and  sexually transmitted diseases.\n
+	    </string>
+	<string name="bagua43">NO.43 BETTER\n
+	    Hexagram:More successful than before.\n
+	    Fortune:At present, although  everything is well, but the difficulty and the changes are brewing in, should be vigilant, avoid pride.\n
+	    Love:The signs of rupture,but mostly the signs of the man abandon the woman.\n
+	    Health:Severe illness will be worse,pay attention to the head, respiratory, oncology and other diseases.\n
+	    </string>
+	<string name="bagua44">NO.44 BETTER\n
+	    Hexagram:Meeting friends in the foreign land bring you more joy,career goes smoothly, keep moving forward.\n
+	    Fortune:Pay attention to affective factors, everything go block, should be careful.\n
+	    Love:Both sides are not satisfied, emotional complexity, fickle signs.\n
+	    Health:Severe illness will be deteriorated, pay attention to the genitourinary system, pulmonary disease.\n
+	    </string>
+	<string name="bagua45">NO.45 BETTER\n
+	    Hexagram:All problems will be solved, disease will be cured.\n
+	    Fortune:Get the help from the elders,but beware of financial disputes.\n
+	    Love:The sign is good, try your best.\n
+	    Health:Fierce sign,treat as soon as possible, pay attention to the chest and throat.\n
+	    </string>
+	<string name="bagua46">NO.46 BEST\n
+	    Hexagram:Away from the gossip,get your desired fame and fortune.\n
+	    Fortune:Fame and fortune will be waiting for you,just do your best.\n
+	    Love:Expected to succeed, but not radical.\n
+	    Health:Illness get severe, pay attention to the abdomen, the bile.\n
+	    </string>
+	<string name="bagua47">NO.47 WORSE\n
+	    Hexagram:Fortune do not come and some people bully,do everything possible to negotiate,obviously a good word with you,but still removeing the ladder.\n
+	    Fortune:Unsatisfactory, was the so-called in the shallow water dragon is played by shrimp.\n
+	    Love:Many end up in failure, pose a real problem.\n
+	    Health:Critical signs, pay attention to oral throat, urinary system, and even sexually transmitted diseases.\n
+	    </string>
+	<string name="bagua48">NO.48 BETTER\n
+	    Hexagram:Dry hole has been broken for years, once the new water springs, the envy of thirsty people,turned the corner and have good luck.\n
+	    Fortune:Well is still, can not move, so everything can not be aggressive initiative, the lack of momentum, more favorable if take it easy.\n
+	    Love:Situation is not ideal, first separate and then together, it can become good match in the future.\n
+	    Health:Serious condition and delay.\n
+	    </string>
+	<string name="bagua49">NO.49 BETTER\n
+	    Hexagram:Seedling meet dry weather and gradually decline, but fortunately the rain come,trouble go away and joy come, the things you wish come true.\n
+	    Fortune:Things are in flux,should innovation.\n
+	    Love:May re-start, or should change the old attitude.\n
+	    Health:Changing conditions, should change medical treatment methods, attention to the heart, eyes and throat diseases.\n
+	    </string>
+	<string name="bagua50">NO.50 BETTER\n
+	    Hexagram:Good luck, seek fame and fortune will come true, marriage are wishful,and business is booming.\n
+	    Fortune:Fortune is still good, business can succeed,everything should not be delayed, prevent quarreling.\n
+	    Love:Unmarried man is smooth,married women should prevent extramarital affairs affect the family.\n
+	    Health:Conditions have changed, but no serious problem for gallstones, heart, digestive system disease.\n
+	    </string>
+	<string name="bagua51">NO.51 BETTER\n
+	    Hexagram:When you meet an admiralty and hit it,will turn the corner,look for a job and the money  effortless, trading is good luck.\n
+	    Fortune:Surface is prosperity,but inside has many trouble,turbulent.\n
+	    Love:Gossipy, chaos,virtual and no reality.\n
+	    Health:Pay attention to the liver, nervous system, foot disease, illness repeatedly.\n
+	    </string>
+	<string name="bagua52">NO.52 WORSE\n
+	    Hexagram:Transaction is not speculative, hope for wealth should be effort,the marriage in vain.\n
+	    Fortune:Everything should not be frivolous, the road was blocked and had to wait for a good time.\n
+	    Love:There is unrequited love or discord, the two sides separated heavy, stagnant relationship.\n
+	    Health:Hard to cure, attention to gastrointestinal vascular sclerosis and  tuberculosis.\n
+	    </string>
+	<string name="bagua53">NO.53 BEST\n
+	    Hexagram:Phoenix landed in the XiQi mountain,sing several times then the sage come out,have many years of riches and honor.\n
+	    Fortune:Gradually move toward a bright future,all matters relating to the foundation, have good luck, but be care of the sex and clerical mistakes.\n
+	    Love:Orderly development can be successful, but the signs of remarry.\n
+	    Health:Signs of deterioration, pay attention to the stomach, intestines, back pain, etc.\n
+	    </string>
+	<string name="bagua54">NO.54 WORSE\n
+	    Hexagram:When require fish should be find in water, find in the tree is not right,fruitless nothing will be accomplished.\n
+	    Fortune:Doing things contrary to common sense,come to their benefit,but then have disaster.\n
+	    Love:Women chasing men, but mostly tragedy, should think twice.\n
+	    Health:Seriously ill, easily deteriorate, as stroke, liver disease, respiratory and sexually transmitted diseases.\n
+	    </string>
+	<string name="bagua55">NO.55 BETTER\n
+	    Hexagram:Ancient mirror seems dark for several years, and once they wear out like the full moon,this accounts for the man who look for a job, turned the corner and have a good luck.\n
+	    Fortune:Fortune strong, for the harvest time, but should not be greedy, to be contented, to prevent gossipy, loss of money or even fire. \n
+	    Love:Lucky and successful, but not get carried away.\n
+	    Health:Seriously ill, pay attention to liver,foot disease and blood pressure, heart disease, etc.\n
+	    </string>
+	<string name="bagua56">NO.56 WORST\n
+	    Hexagram:Birds build nests in a high tree,but bad man burn it,that means bad luck, and all hope in vain.\n
+	    Fortune:Everything fluctuate, then had to adhere to faith, multi-reference the views of others, or there must be bad.\n
+	    Love:Showing instability, there is the road you should walk alone, should review the reasons.\n
+	    Health:Condition is instability, should treat as soon as possible.\n
+	    </string>
+	<string name="bagua57">NO.57 BETTER\n
+	    Hexagram:Boat get the water and away from the beach, the people who go away come back home early, gossipy is accessibility, not bad about marriage and business.\n
+	    Fortune:Many twists and turns, ups and downs of fortune,to be alive, calm, stubborn.\n
+	    Love:There are signs of instability, should be sincere communication, not blindly flatter.\n
+	    Health:The disease varied.\n
+	    </string>
+	<string name="bagua58">NO.58 BETTER\n
+	    Hexagram:When you do things you may feel effortless, don\'t miss this opportunity, then everything will success.\n
+	    Fortune:Mixed feelings of grief and joy, there are ridicule and reputation, keep the right path, everything go well.\n
+	    Love:Probably caused the war of words because of money, or worry about having two women.\n
+	    Health:Attention indecent life, sex and alcohol.\n
+	    </string>
+	<string name="bagua59">NO.59 WORST\n
+	    Hexagram:Across the river you see some gold, want to get but the river is deep water,difficult to get money, thinking day and night is useless.\n
+	    Fortune:Tough there are some difficult, eventually can be solved, avoid capricious and undisciplined.\n
+	    Love:There are obstacles, but finally successful.\n
+	    Health:More sickly childhood, and years of growing up and getting by health, pay attention to the blood, endocrine.\n
+	    </string>
+	<string name="bagua60">NO.60 BEST\n
+	    Hexagram:Turned the corner and have a good luck, even there is disaster won\'t be fierce.\n
+	    Fortune:Everything go to moderation, not too much,especially alcohol and sex.\n
+	    Love:Normal relations between men and women are lucky, opposite is bad.\n
+	    Health:Note that the urinary and digestive diseases,should be treat as soon as possible.\n
+	    </string>
+	<string name="bagua61">NO.61 WORST\n
+	    Hexagram:Bad luck, just as trade with bad man,Swine and sheep traders cattle traders soon later, swine and sheep slaughtered together broken trafficking.\n
+	    Fortune:Treat people with faith, will be good luck, if feel evil, will be bad.\n
+	    Love:Both sides can trust each other, can be happy match.\n
+	    Health:Pay attention to the chest and abdomen and stomach.\n
+	    </string>
+	<string name="bagua62">NO.62 BAD\n
+	    Hexagram:Passing through a single-plank bridge,very terrified,you can pass if you quick, slow step is unsafe.\n
+	    Fortune:Everything go negative,should do some small thing, not big one, even to prevent the small mistakes lead shock, attracted controversy.\n
+	    Love:There are obstacles when get along, though be successful but depart finally.\n
+	    Health:There are signs of worsening illness, should be treat as soon as possible, prevent hand, foot, stomach disease.\n
+	    </string>
+	<string name="bagua63">NO.63 BETTER\n
+	    Hexagram:Get a good results of your study, it\'s worth for the hard-working, you have good luck and smoothly.\n
+	    Fortune:Fame and fortune, success,prevent extremes meet.\n
+	    Love:At the beginning of the pair, inseparable, but the course of time become enemies and divorced.\n
+	    Health:Although short-term improvement, but the good times never last.\n
+	    </string>
+	<string name="bagua64">NO.64 BAD\n
+	    Hexagram:Worry about many things,marriage and wealth should not force,transation will get lucky,the lost people won\'t appear.\n
+	    Fortune:Bad luck, but it will break through the difficulties with patiently, and finally be successful,then will be good luck.\n
+	    Love:Early stage of development is difficult to communicate, out of tune, but must be patient,they will slowly accept.\n
+	    Health:Unstable condition, pay attention to the kidneys, insomnia, blood and other diseases.\n
+	    </string>
+</resources>

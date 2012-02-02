@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TelecomEventActivity!</string>
+    <string name="app_name">TelecomEvent</string>
+    <string name="Accueil">Accueil</string>
+    <string name="Add">Ajouter un évenement</string>
+    <string name="Browse">Parcourir Event</string>
+    <string name="Fav">Event Favoris</string>
+    <string name="Settings">Configuration</string>
+    <string name="ajouter_nom">Nom :</string>
+    <string name="ajouter_date">Date :</string>
+    <string name="ajouter_heure">Heure :</string>
+    <string name="ajouter_lieu">Lieu :</string>
+    <string name="ajouter_description">Description :</string>
+    <string name="ajouter_photo">Ajouter une photo :</string>
+    <string name="ajouter_photo_appareil">Appareil photo</string>
+    <string name="ajouter_photo_deja_existante">Déja existante</string>
+    <string name="ajouter_valider">Envoyer</string>
+    <string name="reglages_nom">Surnom :</string>
+    <string name="reglages_mail">Adresse TB :</string>
+    <string name="reglages_checkbox">Je désire recevoir des alertes pour ne pas rater mes événements favoris</string>
+	<string name="description_titre">*Nom de l évenement*</string>
+    <string name="description_auteur">proposé par *auteur*</string>
+    <string name="description_date_heure">le *date* à *heure*</string>
+    <string name="description_commentaires">Commentaires : *commentaires de l auteur*</string>
+    <string name="description_bouton_photo">Autres photos</string>
+    <string name="description_bouton_participants">*x* participants</string>
+    <string name="description_lieu">à *lieu*</string>
+    <string name="btnAjouter">Ajouter</string>
+    <color name="Blanc">#FFFFFF</color>
+    <color name="ardoise">#5A5E6B</color>
+    <string name="Favo">Favoris</string>
+    
+</resources>

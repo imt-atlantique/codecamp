@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+	<FrameLayout android:layout_width="fill_parent"
+		android:layout_height="150px" >
+		<ImageView android:layout_width="fill_parent" android:layout_gravity="center"
+			android:src="@drawable/bagua" android:layout_height="fill_parent" android:id="@+id/preview" />
+	</FrameLayout>
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start_text"
+        android:textColor="#FF0000"
+        android:text="Do you want to know your Hexagram, Fortune, Love, Health?"/>
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start_text1"
+        android:textColor="#FF0000"
+        android:text="Ask the Fortunetelling!"/>
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start_text2"
+        android:textColor="#FF0000"
+        android:text="Click the button, and you will get your sign"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+		
+		<Button
+		    android:id="@+id/startButton"
+		    android:layout_width="141dp"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center"
+		    android:text="start"
+		    android:layout_marginTop="230dp" >
+
+</Button>
+	</LinearLayout>
+	
+
+</LinearLayout>

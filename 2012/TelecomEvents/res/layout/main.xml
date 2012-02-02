@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="3dp"
+    android:layout_marginLeft="3dp"
+    android:layout_marginRight="3dp"
+    android:layout_marginTop="3dp"
+    android:background="@drawable/background_telecomevent"
+    android:orientation="vertical" >
+
+ <ImageButton
+        android:id="@+id/Buttonbrowse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_menu_database" 
+        android:background="@drawable/ic_menu_database" />
+
+
+
+    <ImageButton
+        android:id="@+id/ButtonLove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/Buttonbrowse"
+        android:src ="@drawable/ic_menu_love"
+        android:background="@drawable/ic_menu_love" />
+
+
+    <ImageButton
+        android:id="@+id/Buttonadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/Buttonbrowse"
+        android:src="@drawable/ic_menu_add"
+        android:background="@drawable/ic_menu_add" />
+
+
+    <ImageButton
+        android:id="@+id/Buttonhome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/Buttonadd"
+        android:src="@drawable/ic_menu_halt"
+        android:background="@drawable/ic_menu_halt" />
+
+
+    <ImageButton
+        android:id="@+id/Buttonsettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/ButtonLove"
+        android:src="@drawable/ic_menu_settings"
+        android:background="@drawable/ic_menu_settings" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/telecom_bretagne_result" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="20dp" >
+
+    </ListView>
+
+</RelativeLayout>

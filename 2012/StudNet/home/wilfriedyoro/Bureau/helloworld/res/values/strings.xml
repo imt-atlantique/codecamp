@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloworldActivity&amp;&amp;yoro!</string>
+    <string name="app_name">StudNet</string>
+    <string name="toto">wyoro</string>
+    <string name="interiorAdvizer">interiorAdvizer</string>
+    <string name="driverAssistance">driverAssistance</string>
+    <string name="studentNetwork">studentNetwork</string>
+    <string name="acceuil">bienvenue.Veuillez selectionner un service</string>
+    <string name="creerCompte"> compte</string>
+    <string name="login">login</string>
+    <string name="rechercher">search</string>
+    <string name="retour"></string>
+    <string name="ecolei">ecoles d\' ingénieurs</string>
+    <string name="ecolec">écoles de commerces</string>
+    <string name="universités">universités</string>
+    <string name="nom"></string>
+    <string name="password"></string>
+    <!-- string name="ecolesingenieur">écoles ingénieurs</string-->
+    <string name="ecolesingenieur">Choose a school</string>
+    <string-array name="ecoles_array">
+        <item> <a href="http://www.telecom-bretagne.eu"> telecom-bretagne</a></item>
+        <item>Telecom-bretagne renne</item>
+        <item>telecom sud paris</item>
+        <item>polytech</item>
+        <item>INPHB</item>
+        <item>Centrale</item>
+        <item>mine et pont</item>
+        <item>universite cocody</item>
+    </string-array>
+        <string name="identifiant">identifiant</string>
+        <string name="motpasse">mot de passe</string>
+    
+</resources>

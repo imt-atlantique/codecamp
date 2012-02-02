@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="3dp"
+    android:layout_marginLeft="3dp"
+    android:layout_marginRight="3dp"
+    android:layout_marginTop="3dp"
+    android:background="@drawable/background_telecomevent"
+    android:orientation="vertical" >
+
+   
+
+    <ImageButton
+        android:id="@+id/Buttonbrowse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_menu_database"
+        android:src="@drawable/ic_menu_database" />
+
+    <ImageButton
+        android:id="@+id/ButtonLove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/Buttonbrowse"
+        android:background="@drawable/ic_menu_love"
+        android:src="@drawable/ic_menu_love" />
+
+    <ImageButton
+        android:id="@+id/Buttonadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/Buttonbrowse"
+        android:background="@drawable/ic_menu_add"
+        android:src="@drawable/ic_menu_add" />
+
+    <ImageButton
+        android:id="@+id/Buttonhome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/Buttonadd"
+        android:background="@drawable/ic_menu_halt"
+        android:src="@drawable/ic_menu_halt" />
+
+    <ImageButton
+        android:id="@+id/Buttonsettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/ButtonLove"
+        android:background="@drawable/ic_menu_settings"
+        android:src="@drawable/ic_menu_settings" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="35dp"
+        android:text="@string/ajouter_nom"
+        android:textSize="10dp"
+         />
+    	
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/ajouter_date" 
+        android:textSize="10dp"
+         />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView2"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/ajouter_heure"
+        android:textSize="10dp" 
+         />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView3"
+        android:text="@string/ajouter_lieu"
+        android:textSize="10dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView3"
+        android:layout_alignLeft="@+id/editText3"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/textView2"
+        android:inputType="date" 
+        android:textSize="5sp"/>
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignLeft="@+id/editText5"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/textView4" 
+        android:textSize="5sp"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="5dp"
+        android:text="@string/ajouter_description" 
+        android:textSize="10dp" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView6"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/textView5"
+        android:layout_toRightOf="@+id/textView5"
+        android:textSize="5sp"         />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Buttonbrowse"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="126dp"
+        android:text="@string/ajouter_photo" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView6"
+        android:layout_marginTop="22dp"
+        android:layout_toLeftOf="@+id/Buttonbrowse"
+        android:text="@string/ajouter_photo_appareil" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_toRightOf="@+id/Buttonbrowse"
+        android:text="@string/ajouter_photo_deja_existante" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Add"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignLeft="@+id/editText4"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_toLeftOf="@+id/Buttonbrowse"
+        android:inputType="time" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/textView1" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnEnvoyer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="15dp"
+        android:text="@string/ajouter_valider" />
+
+</RelativeLayout>

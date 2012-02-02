@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ic_barcode">Barcode</string>
+    <string name="ic_help">HELP!!!!!!</string>
+    <string name="name">Nom de produit</string>
+    <string name="status">Statut</string>
+    <string name="app_name">EasyShopping</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketScope</string>
+    <string name="amount">Amount</string>
+    <string name="categories">Categories</string>
+    
+
+
+	<string-array name="categories">
+        <item>Groceries</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Transportation</item>
+        <item>Trips</item>
+        <item>Others</item>
+    </string-array>
+    <string name="prix"></string>
+       
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <string name="bycategories">by Categories</string>
+    <string name="byperiod">by Period</string>
+    <string name="overview">Overview</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="groceries">Groceries</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="shopping">Shopping</string>
+    <string name="fees">Fees</string>
+    <string name="transportation">Transport</string>
+    <string name="trips">Trips</string>
+    <string name="others">Others</string>
+    <string name="incomes">Add Incomes</string>
+    <string name="incomesAmount">Amount</string>
+    <string name="typeAmount">Type</string>
+    <string name="addIncome">addIncome</string>
+    <string name="bankAccount">Bank</string>
+    <string name="noTypeIncome">Not Specify</string>
+    <string name="cashInput">Cash</string>
+    <color name="c1">#D6E8C0</color>
+    <color name="c2">#add281</color>
+    <color name="c3">#59a502</color>
+    <color name="c4">#826c97</color>
+    <color name="c5">#dfdae4</color>
+    <color name="c6">#f0adaa</color>
+    <color name="c7">#a5a72c</color>
+    <string name="totalexpenses">Total Expenses</string>
+    <string name="totalresources">Start Amount</string>
+    <string name="rest">You still have</string>
+	<string name="expensiesCategories">Expenses Categories</string>
+    <string name="fixedResourcesSettings">Fixed Resources</string>
+    <item format="string" name="categoriesExpenses" type="fraction">Expenses Categories</item>
+    <string name="setPeriod">Set Period</string>
+    <string name="fixedExpenses">Fixed Expenses</string>
+    <string name="getStarted">Started Amount</string>
+        
+    
+
+</resources>

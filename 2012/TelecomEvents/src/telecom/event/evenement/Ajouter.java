@@ -1,0 +1,79 @@
+package telecom.event.evenement;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.database.Cursor;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.ImageButton;
+
+public class Ajouter extends Activity {
+	/** Called when the activity is extends first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.ajouter);
+        
+        ImageButton btnFavoris = (ImageButton)this.findViewById(R.id.ButtonLove);
+        btnFavoris.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	Intent intent = new Intent(viewParam.getContext(),Favoris.class);
+        	startActivity(intent);
+        }
+        });
+        
+        ImageButton btnParcourir = (ImageButton)this.findViewById(R.id.Buttonbrowse);
+        btnParcourir.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	Intent intent = new Intent(viewParam.getContext(),Parcourir.class);
+        	startActivity(intent);
+        }
+        });
+        
+        ImageButton btnAccueil = (ImageButton)this.findViewById(R.id.Buttonhome);
+        btnAccueil.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	Intent intent = new Intent(viewParam.getContext(),Accueil.class);
+        	startActivity(intent);
+        }
+        });
+        
+        ImageButton btnReglages = (ImageButton)this.findViewById(R.id.Buttonsettings);
+        btnReglages.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	Intent intent = new Intent(viewParam.getContext(),Reglages.class);
+        	startActivity(intent);
+        }
+        });
+        
+        Button btnEnvoyer = (Button)this.findViewById(R.id.btnEnvoyer);
+        btnEnvoyer.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	
+        }
+        });
+        
+        Button btnPhoto = (Button)this.findViewById(R.id.button1);
+        btnPhoto.setOnClickListener(
+        new OnClickListener(){
+        public void onClick(View viewParam) {
+        	Intent intent = new Intent(viewParam.getContext(),UseCameraActivity.class);
+        	startActivity(intent);
+        }
+        });
+        
+        EvenementDBAdapter EAdapt = new EvenementDBAdapter(this);
+
+    }
+    
+}
+
+
+

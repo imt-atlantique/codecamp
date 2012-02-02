@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CARACTERE</string>
+    <string name="first_hanzi">字</string>
+    <string name="BTN_See_Meaning">Traduction</string>
+    <string name="BTN_Add_Learned">Connu</string>
+    <string name="BTN_Goto_Next">Suivant</string><string name="BTN_Pre">Précedent</string>
+    
+    <string name="BTN_Start">Commence</string>
+    <string name="dir_name">Caractère</string>
+    <string name="File_00" >Hanzi_00.dat</string>
+    <string name="File_01">Hanzi_01.dat</string>
+    <string name="File_02">Hanzi_02.dat</string>
+    <string name="File_mode">mode.dat</string>
+    <string-array name="Words_00">
+        <!-- 字段含义：汉字,,释义,,是否已经学会 (0 for no,1 for yes)-->
+		<item>吗,,Prononciation:ma  Français:[interrogation]	Tout:干吗 gàn má:pourquoi donc,que faire,,0</item>
+		<item>要,,Prononciation:yào/yāo  Français:vouloir,devoir,[futur proche]  Tout:纲要 gāngyào:plan,croquis,canevas,précis,,0</item>
+		<item>他,,Prononciation:tā  Français:il,lui  Tout:他很坏 tā hěn huài:Il est méchant,,0</item>
+		<item>有,,Prononciation:yǒu  Français:avoir  Tout:占有 zhànyǒu:posséder,tenir,,0</item>
+		<item>在,,Prononciation:zài Français:à,en,se trouver à,être (dans un lieu),être en train de  Tout: 自由自在 zìyóu-zìzài:être libre comme l\'air,,0</item>
+		<item>的,,Prononciation:de/dí/dì  Français:[particule adjectivale,particule structurale]/en effet    Tout:的确 díquè:en effet,,0</item>
+		<item>我,,Prononciation:wǒ  Français:je,moi  Tout:我的书 wǒ de shū ,,0</item>
+		<item>不,,Prononciation:bù  Français:ne pas (être), non   Tout:怪不得 guàibude:rien d\'étonnant,,0</item>
+		<item>没,,Prononciation:méi/mò  Français:ne pas (avoir)/plonger,immerger  Tout:淹没 yānmò:submerger,inonder  没有 méiyǒu  ne pas avoir,,0</item>
+		<item>大,,Prononciation:dà/dài  Français:grand  Tout:大家 dà jiā：Tout le monde,,0</item>
+		<item>国,,Prononciation:guó  Français:pays  Tout:国务 guówù:(affaires) d\'état,,0</item>
+		<item>女,,Prononciation:nǚ  Français:femme  Tout:孟姜女 Mèng Jiāngnǚ:(personnage légendaire de l\'époque des Qin) ,,0</item>
+		<item>们,,Prononciation:men 	Français:[marque du pluriel]   	Tout:我们 wǒmen:nous ,,0</item>
+		<item>下,,Prononciation:xià 	Français:sous,en bas,prochain,suivant,descendre,tomber,quitter 	Tout: 以下 yǐxià:moins de, au dessous de,,0</item>
+		<item>了,,Prononciation:liǎo/le  Français:finir,être capable/[particule de l\'accompli]   Tout:几岁了 jǐsuìle:quel age as-tu? (pour un enfant),,0</item>
+		<item>中,,Prononciation: zhōng/zhòng  Français:milieu, centre, au milieu de/atteindre frapper   Tout:中间 zhōngjiān:au milieu de, parmi, milieu, intermédiaire ,,0</item>
+		<item>是,,Prononciation:shì  Français:être,effectivement  Tout:但是 dànshì:mais,,0</item>
+		<item>你,,Prononciation:nǐ  Français:tu, toi   Tout:你们 nǐmen:vous ,,0</item>
+		<item>她,,Prononciation:tā  Français:elle  	Tout:她们 tāmen:elles,,0</item>
+		<item>好,,Prononciation:hǎo / hào  Français: bien, bon/aimer, être enclin à 	Tout:美好 měihǎo:bon, heureux, magnifique,,0</item>
+		<item>也,,Prononciation:yě 	Français:aussi  	Tout:	维也纳 Wéiyěnà : Vienne ,,0</item>
+		<item>小,,Prononciation:xiǎo	Français:petit,	Tout:小福  xiǎo	fú:prénom ,,0</item>
+		<item>子,,Prononciation:zǐ/zi	Français:fils, pépin, 1er des 12 rameaux terrestres (rat)  Tout:卵子 luǎnzǐ:ovule,,0</item>
+		<item>人,,Prononciation:rén 	Français:homme	Tout:大人 dàren : adulte, grand personnage ,,0</item>
+		<item>上,,Prononciation:shàng  Français:sur, monter, partir pour, précédent 	Tout:上帝 shàngdì:dieu ,,0</item>
+		<item>十,,Prononciation:shí   Français:	dix 	Tout:十分 shífēn : très, tout à fait ,,0</item>
+		<item>日,,Prononciation:rì   Français:soleil, jour 	Tout:日元 rìyuán : yen ,,0</item>
+		<item>个,,Prononciation:gè   Français:[spécificatif général] 	Tout:一个人 	yī gè rén:une personne,,0</item>
+		<item>去,,Prononciation:qù  Français:aller 	Tout:出去 chū//qù : sortir,,0</item>
+		<item>出,,Prononciation:chū   Français:sortir, dépasser, donner, survenir 	Tout:出品 chūpǐn : produit ,,0</item>
+		<item>三,,Prononciation:sān  Français:trois 	Tout:三星 Sānxīng : Samsung,,0</item>
+		<item>过,,Prononciation:guò  Français:passer,traverser,[particule de l\'expérience  passée]	Tout: 过来 guòlái:arriver, venir ,,0</item>
+		<item>口,,Prononciation:kǒu  Français:bouche, [puits, personne, cloche] 	Tout:口头 kǒutóu : oral, verbal,,0</item>
+		<item>门,,Prononciation:mén  Français:porte, voie, moyen, classe, [canon, métiers, cours] 	Tout:送货上门 sòng huò shàngmén : livrer à domicile,,0</item>
+		<item>马,,Prononciation:mǎ  Français:cheval, (patronyme) 	Tout:马赛克 mǎsàikè : céramique,,0</item>
+		<item>从,,Prononciation:cóng/cōng  Français:s\'enrôler, suivre, depuis, par, jamais 	Tout:	从军 cóngjūn : s\'enrôler dans l\'armée,,0</item>
+		<item>二,,Prononciation:èr  Français:deux 	Tout:第二次世界大战 dì èr cì shìjiè dàzhàn,,0</item>
+		<item>来,,Prononciation:lái  Français:venir, arriver, laisser, aller, apporter, prochain 	Tout:合得来 hédelái : bien s\'entendre,,0</item>
+		<item>前,,Prononciation:qián  Français:avant, devant, précédent 	Tout:前额 qián\'é : front,,0</item>
+		<item>四,,Prononciation:sì  Français:quatre 	Tout:四处 sìchù : de tous les côtés,,0</item>
+		<item>后,,Prononciation:hòu  Français:derrière, arrière, après, reine 	Tout:后天 hòutiān : après-demain, a posteriori, acquis,,0</item>
+		<item>天,,Prononciation:tiān  Français:ciel, jour, temps, nature, Dieu 	Tout:载人航天 zài rén hángtiān : vol spatial habité,,0</item>
+		<item>一,,Prononciation:yī  Français:un 	Tout:统一 tǒngyī : unifier, unifié,,0</item>
+		<item>见,,Prononciation:jiàn  Français:	voir, rencontrer 	Tout:百闻不如一见 bǎi wén bùrú yí jiàn : cent témoignages ne valent pas un regard 
+		    	de ses propres yeux, mieux vaut voir soi-même que d\'apprendre par les autres,,0</item>
+		<item>里,,Prononciation:lǐ  Français:village, dans, dedans 	Tout:里面 lǐmian : dans, dedans,,0</item>
+		<item>到,,Prononciation:dào  Français:arriver, vers, à, [réalisation d\'une action] 	Tout:到底 dàodǐ / dào=dǐ : en définitive / aller jusqu\'au bout,,0</item>
+		<item>走,,Prononciation:zǒu  Français:marcher, partir, s\'en aller, passer par, fuir 	Tout:奔走 bēnzǒu : courir, s\'empresser, se démener,,0</item>
+		<item>太,,Prononciation:tài  Français:trop, extrême 	Tout:太极拳 tàijíquán : boxe chinoise,,0</item>
+		<item>看,,Prononciation:kàn / kān  Français:voir, lire, regarder / surveiller 	Tout:看见 kànjiàn : voir, apercevoir,,0</item>
+		<item>月,,Prononciation:yuè  Français:lune, mois 	Tout:月光 yuèguāng : clair de lune,,0</item>
+		<item>很,,Prononciation:hěn  Français:très 	Tout:很好 hěn hǎo：Très bien,,0</item>
+		<item>话,,Prononciation:huà  Français:parole, langage  	Tout:胡话 húhuà : délire, bêtise,,0</item>
+		<item>么,,Prononciation:me  Français: 	Tout:这么 zhème : ainsi, comme cela,,0</item>
+		<item>水,,Prononciation:shuǐ   Français:eau 	Tout:降水 jiàngshuǐ : précipitation,,0</item>
+		<item>说,,Prononciation:shuō  Français:parler, dire 	Tout:短片小说 duǎnpiān xiǎoshuō : conte, nouvelle, récit,,0</item>
+		<item>买,,Prononciation:mǎi  Français:acheter  	Tout:买办 mǎibàn : comprador,,0</item>
+		<item>哪,,Prononciation:nǎ / něi   Français:lequel, où, comment 	Tout:哪样 nǎyàng : quelle sorte?,,0</item>
+		<item>打,,Prononciation:dá / dǎ   Français:[douzaine] / battre, attaquer, ficeler, lancer  	Tout:打拳 dǎquán : boxer, faire du gongfu,,0</item>
+		<item>现,,Prononciation:xiàn  Français:actuel, paraître, improvisé  	Tout:显现 xiǎnxiàn : apparaître, se manifester,,0</item>
+		<item>土,,Prononciation:tǔ  Français:terre, sol, poussière, local, du pays 	Tout:出土 chūtǔ : déterrer,,0</item>
+		<item>生,,Prononciation:shēng  Français:engendrer, naître, pousser, cru, étudiant 	Tout:救生圈 jiùshēng quān : bouée de sauvetage,,0</item>
+		<item>关,,Prononciation:guān  Français:fermer, passe 	Tout:关照 guānzhào : prendre soin de, veiller sur, informer, avertir,,0</item>
+		<item>八,,Prononciation:bā  Français:huit 	Tout:八月 bāyuè : août,,0</item>
+		<item>五,,Prononciation:wǔ  Français:cinq 	Tout:星期五 xīngqīwǔ : vendredi,,0</item>
+		<item>行,,Prononciation:xíng / háng  Français:marcher,ligne, métier, [rangée] 	Tout:盛行 shèngxíng : être en vogue,,0</item>
+		<item>火,,Prononciation:huǒ  Français:feu 	Tout:火灾 huǒzāi : incendie,,0</item>
+		<item>六,,Prononciationn:liù  Français:six 	Tout:六艺 liù\'yì : les six arts (礼, 乐, 射, 御, 书, 数),,0</item>
+		<item>想,,Prononciation:xiǎng  Français:penser, espérer, pensée  	Tout:着想 zhuóxiǎng : se mettre à la place de quelqu\'un, envisager,,0</item>
+		<item>九,,Prononciation:jiǔ  Français:neuf 	Tout:九州 Jiǔzhōu : Kyūshū,,0</item>
+		<item>这,,Prononciation:zhè  Français:celui-ci, ceci, ce 	Tout:这么 zhème : ainsi, comme cela,,0</item>
+		<item>开,,Prononciation:kāi  Français:ouvrir 	Tout:拧开 nǐng kāi : déboucher, dévisser,,0</item>
+		<item>那,,Prononciation:nà  Français:ce, celui-là 	Tout:那里 nàlǐ:celui-là,,0</item>
+		<item>十,,Prononciation:shí / shén  Français:dix (forme complète) / (quel)  	Tout:为什么 wèishénme : pourquoi,,0</item>
+		<item>道,,Prononciation:dào	 Français:chemin, voie, principe, moyen, trait, raconter, [fleuve, porte, mur] 	Tout:报道 bàodào : rapporter, faire un reportage,,0</item>
+		<item>地,,Prononciation:dì / de  Français:terre, sol / [complément adverbial]  	Tout:地下 dìxià : souterrain, clandestin,,0</item>
+		<item>家,,Prononciation:jiā  Français:maison, ménage, foyer, famille, domestique [entreprise, bâtisse], école, spécialiste, expert  	Tout:家乡 jiāxiāng : pays natal,,0</item>
+		<item>同,,Prononciation:tóng  Français:pareil, semblable, même, avec, ainsi que   	Tout:与此同时 yǔ cǐ tóngshí : en même temps,,0</item>
+		<item>远,,Prononciation:yuǎn  Français:loin  	Tout:任重道远 rènzhòng-dàoyuǎn : accomplir une lourde tâche («charge lourde et longue route»),,0</item>
+		<item>些,,Prononciation:xiē  Français:quelques, plusieurs  	Tout:哪些 nǎxiē : lesquels?,,0</item>
+		<item>事,,Prononciation:shì  Français:affaire, chose, événement  	Tout:闲事 xiánshì : les affaires d\'autrui ,,0</item>
+		<item>它,,Prononciation:tā  Français:il, elle (neutre)  	Tout:其它 qítā : autre,,0</item>
+		<item>方,,Prononciation:fāng  Français:direction, carré, [objet carré]  	Tout:大方 dàfāng / dàfang : expert, connaisseur / généreux, naturel, chic,,0</item>
+		<item>面,,Prononciation:miàn   Français:visage, surface, côté, face, farine, poudre, nouille, [drapeau, miroir, objet à surface plate],  	Tout:负面 fùmiàn : négatif,,0</item>
+		<item>长,,Prononciation:cháng / zhǎng  Français:long, longueur / aîné, pousser, augmenter, chef  	Tout:厂长 chǎngzhǎng : directeur d\'usine,,0</item>
+		<item>别,,Prononciation:bié / biè  Français:quitter, séparer, ne pas, autre / (difficile)   	Tout:别墅 biéshù : villa,,0</item>
+		<item>字,,Prononciationn:zì   Français:caractère  	Tout:字符 zìfú : caractère (d\'imprimerie),,0</item>
+		<item>学,,Prononciation:xué  Français:étudier  	Tout:语言学 yǔyánxué : linguistique,,0</item>
+		<item>老,,Prononciation:lǎo  Français:vieux, âgé, habituel, toujours, très  	Tout:老气 lǎoqì : air grave, vieillot, démodé,,0</item>
+		<item>会,,Prononciation:huì / kuài  Français:réunion, savoir, pouvoir / comptable  	Tout:学会 xuéhuì : apprendre, maîtriser, institut,,0</item>
+		<item>用,,Prononciation:yòng  Français:utiliser, avec  	Tout:使用 shǐyòng : utiliser,,0</item>
+		<item>边,,Prononciation:biān  Français:bord, limite, [suffixe de position]  	Tout:边际 biānjì : limite, borne, marginal,,0</item>
+		<item>进,,Prononciation:jìn  Français:entrer, avancer  	Tout:推进 tuījìn : pousser en avant, faire progresser, se porter en avant,,0</item>
+		<item>作,,Prononciation:zuò / zuō / zuó   Français:se lever, produire, faire / atelier  	Tout:恶作剧 èzuòjù : sale tour,,0</item>
+		<item>和,,Prononciation:hé / hè / huó / huò   Français:	somme, union, tout, et, harmonie, paix / à l\'unisson / malaxer, mélanger  	Tout:共和国 gònghéguó : république,,0</item>
+		<item>都,,Prononciation:dōu / dū  Français:tout, entièrement, déjà, même / capitale   	Tout:首都 	shǒudū : capitale,,0</item>
+		<item>间,,Prononciation:jiān / jiàn  Français:[maison, pièce], intervalle, parmi, pièce / séparer, éclaircir les jeunes plants   	Tout:试衣间 shìyījiàn : salle d\'essayage,,0</item>
+		<item>得,,Prononciation:dé / de / děi   Français:obtenir / [possibilité, degré] / devoir   	Tout:够得上 gòudeshang : mériter, avoir les qualités requises pour ,,0</item>
+		
+    </string-array>
+    <string-array name="Words_01">
+        <item >刘,,it is my family name,,0</item>
+        <item >赵,,it is a family name,,0</item>
+        <item >钱,,it is a family name,,0</item>
+        <item >孙,,it is a family name,,0</item>
+        <item >李,,it is a family name,,0</item>
+	</string-array>
+    <string-array name="Words_02">
+        <item >魑,,the first ghost,,0</item>
+        <item >魅,,the second ghost,,0</item>
+        <item >魍,,the third ghost,,0</item>
+        <item >魉,,the last ghost,,0</item>
+
+    </string-array>
+    
+    <string-array name="Menu_Item">
+        <item>Difficile pattern</item>
+        <item>Liste connue</item>
+        <item>Reset</item>
+        <item>Quit</item>
+    </string-array>
+    <string name="Welcome">Codage par Qiao et Daikui</string>
+    <string name="Congrat">Bravo!A nouveau caractere!</string>
+    <string name="Close">Ferme</string>
+    <string name="Menu">Menu</string>
+    <string name="Learned">Liste connue</string>
+    <color name="COL_Char">#FF7F00</color>
+    <color name="COL_Char_bg">#20C6E2FF</color>
+    
+    
+    
+
+</resources>

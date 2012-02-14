@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FEFEFE"
+     android:id="@+id/geo_stream">
+
+ 	<!-- <ListView
+        android:id="@+id/geo_stream"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/> -->
+        
+    <ImageView
+		android:id="@+id/user_image"
+		android:contentDescription="@string/user_image"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	   	android:layout_gravity="center_vertical"
+	   	android:src="@drawable/yo"
+	   	android:padding="10dp"/>
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:orientation="vertical"
+	    android:layout_width="0dip"
+	    android:layout_height="wrap_content"
+	   	android:layout_gravity="center_vertical"
+	   	android:paddingLeft="10dp"
+	    android:layout_weight="1">
+ 
+		    <TextView android:id="@+id/action"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="2xyo devient le nouveau Boss à Tank Hero"
+		         />
+		    	 
+		    <TextView android:id="@+id/zone"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="Maisel de Télécom Bretagne - Batiment I3"
+		         /> 
+	</LinearLayout>
+	
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:orientation="vertical"
+	    android:layout_width="0dip"
+	    android:layout_height="wrap_content"
+	   	android:layout_gravity="center_vertical"
+	   	android:paddingLeft="10dp"
+	    android:layout_weight="1">
+ 
+		    <TextView android:id="@+id/action"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="2xyo devient le nouveau Boss à Tank Hero"
+		         />
+		    	 
+		    <TextView android:id="@+id/zone"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="Maisel de Télécom Bretagne - Batiment I3"
+		         /> 
+	</LinearLayout>
+	
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:orientation="vertical"
+	    android:layout_width="0dip"
+	    android:layout_height="wrap_content"
+	   	android:layout_gravity="center_vertical"
+	   	android:paddingLeft="10dp"
+	    android:layout_weight="1">
+ 
+		    <TextView android:id="@+id/action"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="2xyo devient le nouveau Boss à Tank Hero"
+		         />
+		    	 
+		    <TextView android:id="@+id/zone"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:text="Maisel de Télécom Bretagne - Batiment I3"
+		         /> 
+ 
+
+	</LinearLayout>
+ 	
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Stream!</string>
+    <string name="app_name">Sodjo</string>
+    <string name="stream_section">Flux</string>
+    <string name="zones_section">Zones</string>
+    <string name="games_section">Jeux</string>
+    <string name="profile_section">Profil</string>
+    <string name="geoStream">Activités autour de moi</string>
+    <string name="friendStream">Activités de mes amis</string>
+    <string name="user_image">Images de l\'utilisateur</string>
+</resources>
